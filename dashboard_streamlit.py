@@ -132,11 +132,7 @@ ingreso_total = int(
 
 df_eff = data["10_ingresos_vs_afluencia"]
 
-ingreso_pasajero = (
-    df_eff["ingreso_por_pasajero"]
-    .fillna(0)
-    .mean()
-)
+
 
 col1.metric(
     "Total Pasajeros",
