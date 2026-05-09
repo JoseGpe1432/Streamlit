@@ -363,7 +363,8 @@ def load_data():
         "05_heatmap_mes_linea", "06_tendencia_anual",
         "07_demanda_tipo_dia", "08_saturacion_estaciones",
         "09_ingresos_mensual", "10_ingresos_vs_afluencia",
-        "11_retrasos", "12_horarios_pico",
+        # 11_retrasos y 12_horarios_pico no vienen del pipeline Gold;
+        # se generan como datos simulados directamente en el dashboard.
     ]
     data = {}
     modo_real = False
@@ -388,8 +389,10 @@ data, modo_real = load_data()
 df_mensual   = data["02_afluencia_mensual"]
 df_tendencia = data["06_tendencia_anual"]
 df_sat       = data["08_saturacion_estaciones"]
-df_retrasos  = data["11_retrasos"]
-df_horarios  = data["12_horarios_pico"]
+# 11 y 12 no se generan en el pipeline Gold; se usan datos simulados como fallback
+sim = generar_datos_simulados()
+df_retrasos  = data.get("11_retrasos",  sim["11_retrasos"])
+df_horarios  = data.get("12_horarios_pico", sim["12_horarios_pico"])
 df_tipo_dia  = data["07_demanda_tipo_dia"]
 df_top       = data["04_top_estaciones"]
 df_heatmap   = data["05_heatmap_mes_linea"]
