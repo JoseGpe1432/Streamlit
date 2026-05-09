@@ -31,32 +31,106 @@ st.markdown("""
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=DM+Sans:wght@300;400;600;700&display=swap');
 
-/* Variables */
+/* ── MODO OSCURO – Variables ── */
 :root {
-    --metro-blue: #0A2463;
-    --metro-yellow: #F5C518;
-    --metro-orange: #E84855;
-    --metro-teal: #3BB273;
-    --metro-gray: #F0F2F6;
-    --text-dark: #0D1117;
-    --text-muted: #6B7280;
+    --metro-blue:    #3B82F6;
+    --metro-yellow:  #F5C518;
+    --metro-orange:  #F87171;
+    --metro-teal:    #34D399;
+    --bg-main:       #0F1117;
+    --bg-card:       #1A1D27;
+    --bg-card2:      #22263A;
+    --border:        #2E3350;
+    --text-primary:  #F0F2FA;
+    --text-muted:    #9CA3C0;
+    --text-dark:     #F0F2FA;
 }
 
-/* Fondo general */
+/* ── Fondo general ── */
 .stApp {
-    background-color: #F7F8FC;
+    background-color: var(--bg-main);
     font-family: 'DM Sans', sans-serif;
+    color: var(--text-primary);
 }
 
-/* Header principal */
+/* ── Texto nativo de Streamlit ── */
+.stApp p, .stApp li, .stApp label,
+.stMarkdown, .stMarkdown p,
+[data-testid="stMarkdownContainer"] p,
+[data-testid="stMarkdownContainer"] li,
+[data-testid="stCaption"] p,
+.stCaption, .stText,
+div[class*="caption"], span[class*="caption"] {
+    color: var(--text-primary) !important;
+}
+
+/* Títulos nativos */
+.stApp h1, .stApp h2, .stApp h3, .stApp h4 {
+    color: var(--text-primary) !important;
+}
+
+/* Métricas nativas */
+[data-testid="stMetricValue"],
+[data-testid="stMetricLabel"],
+[data-testid="stMetricDelta"] {
+    color: var(--text-primary) !important;
+}
+
+/* Selectbox / multiselect / slider etiquetas */
+.stSelectbox label, .stMultiSelect label,
+.stSlider label, .stCheckbox label,
+[data-baseweb="select"] span,
+[data-baseweb="select"] div {
+    color: var(--text-primary) !important;
+}
+
+/* Input / select fondos */
+[data-baseweb="select"] > div,
+[data-baseweb="input"] > div {
+    background-color: var(--bg-card2) !important;
+    border-color: var(--border) !important;
+    color: var(--text-primary) !important;
+}
+
+/* Expander */
+[data-testid="stExpander"] {
+    background-color: var(--bg-card) !important;
+    border: 1px solid var(--border) !important;
+    border-radius: 10px;
+}
+[data-testid="stExpander"] summary,
+[data-testid="stExpander"] p,
+[data-testid="stExpander"] li,
+[data-testid="stExpander"] td,
+[data-testid="stExpander"] th {
+    color: var(--text-primary) !important;
+}
+
+/* Tablas / DataFrames */
+[data-testid="stDataFrame"] {
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid var(--border);
+}
+[data-testid="stDataFrame"] th {
+    background-color: var(--bg-card2) !important;
+    color: var(--metro-yellow) !important;
+}
+[data-testid="stDataFrame"] td {
+    color: var(--text-primary) !important;
+    background-color: var(--bg-card) !important;
+}
+
+/* ── Header principal ── */
 .main-header {
-    background: linear-gradient(135deg, #0A2463 0%, #1B4FCC 60%, #0A2463 100%);
+    background: linear-gradient(135deg, #0A1628 0%, #0F2D6B 55%, #0A1628 100%);
     color: white;
     padding: 2.5rem 2rem 2rem 2rem;
     border-radius: 16px;
     margin-bottom: 1.5rem;
     position: relative;
     overflow: hidden;
+    border: 1px solid #1E3A8A;
 }
 .main-header::before {
     content: "🚇";
@@ -65,26 +139,28 @@ st.markdown("""
     top: 50%;
     transform: translateY(-50%);
     font-size: 6rem;
-    opacity: 0.12;
+    opacity: 0.15;
 }
 .main-header h1 {
     font-family: 'Space Mono', monospace;
     font-size: 1.9rem;
     margin: 0 0 0.4rem 0;
     letter-spacing: -0.03em;
+    color: #FFFFFF;
 }
 .main-header p {
     margin: 0;
     font-size: 0.95rem;
     opacity: 0.82;
     font-weight: 300;
+    color: #CBD5F0;
 }
 
-/* Sección Big Data */
+/* ── Badge ── */
 .bd-badge {
     display: inline-block;
     background: #F5C518;
-    color: #0A2463;
+    color: #0A1628;
     font-family: 'Space Mono', monospace;
     font-size: 0.7rem;
     font-weight: 700;
@@ -94,17 +170,20 @@ st.markdown("""
     margin-bottom: 0.6rem;
 }
 
-/* KPI Cards */
+/* ── KPI Cards ── */
 .kpi-card {
-    background: white;
+    background: var(--bg-card);
     border-radius: 14px;
     padding: 1.4rem 1.6rem;
     border-left: 5px solid var(--metro-blue);
-    box-shadow: 0 2px 12px rgba(10,36,99,0.08);
+    border-top: 1px solid var(--border);
+    border-right: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    box-shadow: 0 4px 20px rgba(0,0,0,0.4);
 }
-.kpi-card.yellow  { border-left-color: #F5C518; }
-.kpi-card.orange  { border-left-color: #E84855; }
-.kpi-card.green   { border-left-color: #3BB273; }
+.kpi-card.yellow { border-left-color: #F5C518; }
+.kpi-card.orange { border-left-color: #F87171; }
+.kpi-card.green  { border-left-color: #34D399; }
 
 .kpi-label {
     font-size: 0.75rem;
@@ -118,89 +197,101 @@ st.markdown("""
     font-family: 'Space Mono', monospace;
     font-size: 1.9rem;
     font-weight: 700;
-    color: var(--text-dark);
+    color: var(--text-primary);
     line-height: 1;
 }
 .kpi-delta {
     font-size: 0.78rem;
     margin-top: 0.3rem;
-    color: #3BB273;
+    color: #34D399;
     font-weight: 600;
 }
 
-/* Sección headers */
+/* ── Section headers ── */
 .section-header {
     font-family: 'Space Mono', monospace;
     font-size: 1rem;
     font-weight: 700;
-    color: #0A2463;
-    border-bottom: 3px solid #F5C518;
+    color: var(--metro-yellow);
+    border-bottom: 3px solid var(--metro-yellow);
     padding-bottom: 0.4rem;
     margin: 1.8rem 0 1rem 0;
     display: inline-block;
 }
 
-/* Info cards */
+/* ── Info cards ── */
 .info-card {
-    background: white;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
     border-radius: 12px;
     padding: 1.2rem 1.4rem;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+    box-shadow: 0 2px 12px rgba(0,0,0,0.3);
     margin-bottom: 0.8rem;
+    color: var(--text-primary);
 }
+.info-card b { color: var(--metro-yellow); }
 
-/* Alerta saturación */
+/* ── Alerta saturación ── */
 .alert-sat {
-    background: #FEE2E2;
-    border: 1px solid #FECACA;
+    background: rgba(248,113,113,0.12);
+    border: 1px solid rgba(248,113,113,0.4);
     border-radius: 10px;
     padding: 1rem 1.2rem;
-    color: #7F1D1D;
+    color: #FCA5A5;
     font-size: 0.9rem;
 }
 
-/* Preguntas analíticas */
+/* ── Preguntas analíticas ── */
 .q-card {
-    background: #EEF2FF;
-    border-left: 4px solid #4F46E5;
+    background: rgba(59,130,246,0.1);
+    border-left: 4px solid var(--metro-blue);
     border-radius: 0 10px 10px 0;
     padding: 0.8rem 1.1rem;
     margin-bottom: 0.6rem;
     font-size: 0.9rem;
-    color: #1e1b4b;
+    color: var(--text-primary);
 }
+.q-card b { color: #93C5FD; }
 
-/* Sidebar */
+/* ── Sidebar ── */
 [data-testid="stSidebar"] {
-    background: #0A2463;
+    background: #0A1628 !important;
+    border-right: 1px solid var(--border);
 }
 [data-testid="stSidebar"] * {
-    color: white !important;
+    color: var(--text-primary) !important;
 }
 [data-testid="stSidebar"] .stSelectbox label,
-[data-testid="stSidebar"] .stMultiSelect label {
-    color: #F5C518 !important;
+[data-testid="stSidebar"] .stMultiSelect label,
+[data-testid="stSidebar"] .stSlider label,
+[data-testid="stSidebar"] .stCheckbox label {
+    color: var(--metro-yellow) !important;
     font-weight: 700;
     font-size: 0.8rem;
     letter-spacing: 0.07em;
     text-transform: uppercase;
 }
 [data-testid="stSidebar"] h2 {
-    color: #F5C518 !important;
+    color: var(--metro-yellow) !important;
     font-family: 'Space Mono', monospace;
     font-size: 0.95rem;
 }
-
-/* Tabla */
-[data-testid="stDataFrame"] {
-    border-radius: 10px;
-    overflow: hidden;
+[data-testid="stSidebar"] hr {
+    border-color: var(--border) !important;
 }
 
-/* Pie de página */
+/* Controles del sidebar en modo oscuro */
+[data-testid="stSidebar"] [data-baseweb="select"] > div,
+[data-testid="stSidebar"] [data-baseweb="input"] > div {
+    background-color: #131929 !important;
+    border-color: var(--border) !important;
+}
+
+/* ── Pie de página ── */
 .footer {
-    background: #0A2463;
-    color: rgba(255,255,255,0.7);
+    background: #0A1628;
+    border: 1px solid var(--border);
+    color: rgba(200,210,240,0.75);
     padding: 1.2rem 1.6rem;
     border-radius: 12px;
     font-size: 0.8rem;
@@ -211,7 +302,15 @@ st.markdown("""
     flex-wrap: wrap;
     gap: 0.5rem;
 }
-.footer span { color: #F5C518; font-weight: 700; }
+.footer span { color: var(--metro-yellow); font-weight: 700; }
+
+/* ── Divisores ── */
+hr { border-color: var(--border) !important; }
+
+/* ── Checkbox ── */
+[data-testid="stCheckbox"] span {
+    color: var(--text-primary) !important;
+}
 </style>
 """, unsafe_allow_html=True)
 
