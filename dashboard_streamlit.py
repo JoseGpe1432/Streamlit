@@ -795,7 +795,15 @@ if mostrar_retrasos:
 if mostrar_heatmap:
     st.markdown('<div class="section-header">🗓️ Heatmap: afluencia promedio diaria por mes y línea</div>', unsafe_allow_html=True)
     st.caption("Identificación de estacionalidad y variaciones temporales de la demanda.")
-    pivot = df_heatmap.pivot(index="mes", columns="linea", values="afluencia_promedio_diaria")
+    # Agregar duplicados antes de pivotar (el CSV real puede tener
+    # varias filas por mes+linea si hay registros repetidos o por tipo_ingreso)
+    col_val = "afluencia_promedio_diaria" if "afluencia_promedio_diaria" in df_heatmap.columns else df_heatmap.select_dtypes("number").columns[0]
+    df_hm_agg = (
+        df_heatmap
+        .groupby(["mes", "linea"], as_index=False)[col_val]
+        .mean()
+    )
+    pivot = df_hm_agg.pivot(index="mes", columns="linea", values=col_val)
     pivot.index = [MESES_ES.get(m, m) for m in pivot.index]
     st.dataframe(pivot.style.background_gradient(cmap="Blues", axis=None), use_container_width=True)
 
