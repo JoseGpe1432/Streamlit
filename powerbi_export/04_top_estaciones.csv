@@ -1,1817 +1,1557 @@
 linea,estacion,afluencia_total,ranking_global
 L2,Cuatro Caminos,520232771,1
 L3,Indios Verdes,519582562,2
-LINEA 8,Constituciã3n De 1917,420298116,3
-L2,Tasqueã±a,373821428,4
-LINEA 5,Pantitlã¡n,369806889,5
-LA,Pantitlã¡n,359254665,6
-LINEA 9,Pantitlã¡n,332070027,7
+L8,Constitución De 1917,421121737,3
+L2,Tasqueña,373821428,4
+L5,Pantitlán,370483043,5
+LA,Pantitlán,359254665,6
+L9,Pantitlán,332487505,7
 L3,Universidad,317433911,8
-L2,Zã3calo/tenochtitlan,291473198,9
+L2,Zócalo/tenochtitlan,291473198,9
 L1,Observatorio,279376602,10
 LB,Ciudad Azteca,267113621,11
 LB,Buenavista,259097442,12
-LINEA 9,Tacubaya,245882273,13
+L9,Tacubaya,246365454,13
 L1,Insurgentes,225057365,14
 L1,Chapultepec,224176298,15
 L1,Zaragoza,217276593,16
 L1,Merced,214752561,17
-L1,Pantitlã¡n,197206457,18
-LINEA 9,Chilpancingo,191822601,19
+L1,Pantitlán,197206457,18
+L9,Chilpancingo,192245597,19
 L3,Copilco,179310445,20
-LINEA 7,Barranca Del Muerto,177591698,21
+L7,Barranca Del Muerto,177940073,21
 L3,Deportivo 18 De Marzo,173307265,22
 LA,La Paz,169324738,23
 L2,Tacuba,167480428,24
 L2,Normal,166367564,25
-LINEA 7,El Rosario,155297721,26
-LINEA 5,Politã©cnico,154036061,27
+L7,El Rosario,155551779,26
+L5,Politécnico,154165386,27
 L3,La Raza,153023444,28
-LINEA 7,Polanco,151346801,29
-LB,Mãozquiz,149709579,30
-L2,Hidalgo,149532832,31
-L3,Miguel Ángel De Quevedo,149208319,32
+L7,Polanco,151594864,29
+L3,Miguel Ángel De Quevedo,150116356,30
+LB,Múzquiz,149709579,31
+L2,Hidalgo,149532832,32
 L2,Allende,148676865,33
-LINEA 9,Puebla,145722741,34
-L1,Pino Suã¡rez,144613380,35
-L1,Gã3mez Farã­as,143184267,36
-LINEA 7,Auditorio,143101283,37
+L9,Puebla,145973920,34
+L1,Pino Suárez,144613380,35
+L7,Auditorio,143555907,36
+L1,Gómez Farías,143184267,37
 L1,Tacubaya,142081502,38
-LINEA 12,Tlã¡huac,137106593,39
-L2,Revoluciã3n,135447907,40
-L3,Etiopã­a/plaza De La Transparencia,134774385,41
-LINEA 6,Martã­n Carrera,134668839,42
+LINEA 12,Tláhuac,137106593,39
+L2,Revolución,135447907,40
+L6,Martín Carrera,134878852,41
+L3,Etiopía/plaza De La Transparencia,134774385,42
 LA,Santa Marta,133345057,43
-L1,San Lã¡zaro,131784983,44
+L1,San Lázaro,131784983,44
 L2,Bellas Artes,130588764,45
 L2,General Anaya,129837801,46
-L2,Chabacano,129556885,47
-LINEA 8,San Juan De Letrã¡n,129418273,48
+L8,San Juan De Letrán,129629411,47
+L2,Chabacano,129556885,48
 L3,Zapata,129057930,49
 LB,Ecatepec,128871585,50
 L1,Sevilla,126029716,51
-L2,Pino Suã¡rez,125616637,52
-L1,Boulevard Puerto Aã©reo,125038592,53
+L2,Pino Suárez,125616637,52
+L1,Boulevard Puerto Aéreo,125038592,53
 LB,Impulsora,119834049,54
-LINEA 8,Uam-i,119632589,55
-L3,Coyoacã¡n,118604976,56
+L8,Uam-i,119821133,55
+L3,Coyoacán,118604976,56
 L2,San Cosme,115787556,57
 LB,Lagunilla,115113807,58
 L1,Moctezuma,114772120,59
-LB,Nezahualcã3yotl,109254041,60
-LINEA 7,San Joaquã­n,108540847,61
-LINEA 8,Escuadrã3n 201,108078150,62
+LB,Nezahualcóyotl,109254041,60
+L7,San Joaquín,108647376,61
+L8,Escuadrón 201,108168859,62
 LINEA 12,Insurgentes Sur,107369220,63
-LINEA 5,Autobuses Del Norte,107055935,64
+L5,Autobuses Del Norte,107327281,64
 LB,Tepito,106719659,65
 L1,Candelaria,106691549,66
-LINEA 8,Coyuya,106343192,67
+L8,Coyuya,106565218,67
 L3,Viveros/derechos Humanos,106212390,68
 L2,San Antonio Abad,105032567,69
-LINEA 7,Mixcoac,102891187,70
+L7,Mixcoac,103031710,70
 L3,Hospital General,102810486,71
 L2,Xola,101688879,72
 L2,Portales,101682099,73
-LINEA 4,Martã­n Carrera,101420696,74
-LINEA 8,Garibaldi/lagunilla,100412361,75
-LINEA 6,Ferrerã­a/arena Ciudad De Mã©xico,100244613,76
+L4,Martín Carrera,101661945,74
+L8,Garibaldi/lagunilla,100550865,75
+L6,Ferrería/arena Ciudad De México,100469509,76
 L2,Viaducto,99264136,77
-LINEA 8,Bellas Artes,98876748,78
+L8,Bellas Artes,99048655,78
 L3,Tlatelolco,98821902,79
 L2,Nativitas,98579953,80
-L1,Isabel La Catã3lica,96758898,81
-LB,Rã­o De Los Remedios,96563317,82
-LB,Plaza Aragã3n,96267661,83
-L3,Centro Mã©dico,96219003,84
-LINEA 8,Iztacalco,95881505,85
-LINEA 9,Mixiuhca,95242421,86
+L1,Isabel La Católica,96758898,81
+LB,Río De Los Remedios,96563317,82
+LB,Plaza Aragón,96267661,83
+L3,Centro Médico,96219003,84
+L8,Iztacalco,95993295,85
+L9,Mixiuhca,95290408,86
 L1,Salto Del Agua,94623859,87
 L1,Balderas,92465713,88
 LA,Guelatao,91468587,89
-LINEA 12,Perifã©rico Oriente,91441889,90
-L2,Cuitlã¡huac,90903195,91
-L3,Niã±os Hã©roes,90782413,92
+LINEA 12,Periférico Oriente,91441889,90
+L2,Cuitláhuac,90903195,91
+L3,Niños Héroes,90782413,92
 LA,Los Reyes,90232701,93
 L3,Potrero,89586083,94
-L1,Cuauhtã©moc,88834256,95
-LINEA 6,El Rosario,88348443,96
+L1,Cuauhtémoc,88834256,95
+L6,El Rosario,88436460,96
 LA,Tepalcates,88282512,97
-L3,Divisiã3n Del Norte,87257835,98
-L3,Juã¡rez,84487655,99
-L3,Hidalgo,84369659,100
-L2,Ermita,83540862,101
-LINEA 9,Patriotismo,83319985,102
-L3,Eugenia,82836580,103
-LINEA 8,Salto Del Agua,79609244,104
-LINEA 5,Terminal Aã©rea,76521074,105
-LINEA 6,Lindavista,76333556,106
-LB,Deportivo Oceanã­a,75613636,107
-LINEA 8,Atlalilco,73383391,108
-L2,Colegio Militar,73156126,109
-LINEA 7,Aquiles Serdã¡n,73025758,110
-LB,San Lã¡zaro,71843795,111
-L2,Villa De Cortã©s,70674594,112
-LB,Olã­mpica,70319461,113
-LINEA 7,Camarones,69060037,114
-LA,Acatitla,68920963,115
-LÃ­NEA 3,Indios Verdes,67176194,116
-LINEA 6,La Villa/basã­lica,66558909,117
-LB,Villa De Aragã3n,66394867,118
-LINEA 7,San Antonio,66212788,119
-LINEA 12,Atlalilco,65201065,120
-LÃ­NEA 8,Constituciã3n De 1917,64687928,121
-LINEA 8,Obrera,63690081,122
-L1,Balbuena,63205517,123
-LINEA 9,Centro Mã©dico,63183971,124
-LINEA 8,Apatlaco,63122328,125
+L3,División Del Norte,87257835,98
+L2,Villa De Cortés,85091367,99
+LB,Olímpica,84734460,100
+L3,Juárez,84487655,101
+L3,Hidalgo,84369659,102
+L9,Patriotismo,83576248,103
+L2,Ermita,83540862,104
+L3,Eugenia,82836580,105
+L8,Salto Del Agua,79667200,106
+L5,Terminal Aérea,76678540,107
+L6,Lindavista,76500735,108
+LB,Deportivo Oceanía,75613636,109
+L8,Atlalilco,73518849,110
+L2,Colegio Militar,73156126,111
+L7,Aquiles Serdán,73155244,112
+LB,San Lázaro,71843795,113
+LÍNEA 3,Indios Verdes,69132831,114
+L7,Camarones,69105728,115
+LA,Acatitla,68920963,116
+L6,La Villa/basílica,66644071,117
+LB,Villa De Aragón,66394867,118
+L7,San Antonio,66294217,119
+LÍNEA 8,Constitución De 1917,66002219,120
+LINEA 12,Atlalilco,65201065,121
+L8,Obrera,63807138,122
+L9,Centro Médico,63251800,123
+L8,Apatlaco,63217402,124
+L1,Balbuena,63205517,125
 L2,Panteones,62396519,126
-LA,Peã±ã3n Viejo,60550741,127
+LA,Peñón Viejo,60550741,127
 LA,Canal De San Juan,59761093,128
-LINEA 9,Lã¡zaro Cã¡rdenas,58738431,129
-LINEA 12,Tezonco,57841281,130
-LINEA 7,San Pedro De Los Pinos,57835059,131
-LINEA 12,Mexicaltzingo,56889035,132
-LINEA 8,Cerro De La Estrella,56863312,133
-LINEA 8,Doctores,56124573,134
+L9,Lázaro Cárdenas,58801083,129
+L7,San Pedro De Los Pinos,57938323,130
+LINEA 12,Tezonco,57841281,131
+L8,Cerro De La Estrella,56970015,132
+LINEA 12,Mexicaltzingo,56889035,133
+L8,Doctores,56254708,134
 L3,Guerrero,55605899,135
 LINEA 12,Nopalera,55193164,136
-LINEA 9,Jamaica,55111387,137
-LINEA 9,Velã3dromo,52910281,138
+L9,Jamaica,55180529,137
+L9,Velódromo,52949401,138
 LINEA 12,Mixcoac,50031898,139
-LA,Agrã­cola Oriental,49919288,140
-L1,Juanacatlã¡n,49249534,141
-LINEA 8,Iztapalapa,48839633,142
-LINEA 9,Chabacano,48784829,143
-LB,Oceanã­a,48781850,144
-LINEA 5,La Raza,48705419,145
+LA,Agrícola Oriental,49919288,140
+L1,Juanacatlán,49249534,141
+L8,Iztapalapa,48903805,142
+L9,Chabacano,48885856,143
+L5,La Raza,48784356,144
+LB,Oceanía,48781850,145
 LB,Romero Rubio,48401497,146
 L2,Popotla,47459341,147
-LINEA 7,Refinerã­a,46751563,148
+L7,Refinería,46836026,148
 L3,Balderas,46217247,149
 LINEA 12,Zapata,45301552,150
-LINEA 8,Aculco,45217044,151
+L8,Aculco,45262096,151
 LINEA 12,Olivos,44656465,152
-LINEA 7,Constituyentes,43979754,153
-LÃ­NEA 2,Tasqueã±a,42764246,154
-LINEA 12,Culhuacã¡n,41740059,155
-LÃ­NEA 5,Pantitlã¡n,41117220,156
-LINEA 5,Oceanã­a,41009373,157
-LÃ­NEA 2,Cuatro Caminos,40666517,158
-LINEA 4,Canal Del Norte,40211991,159
+L7,Constituyentes,44038068,153
+LÍNEA 2,Tasqueña,43416130,154
+LÍNEA 2,Cuatro Caminos,42600615,155
+LÍNEA 5,Pantitlán,42497237,156
+LINEA 12,Culhuacán,41740059,157
+L5,Oceanía,41092742,158
+L4,Canal Del Norte,40296369,159
 LINEA 12,Calle 11,39133927,160
 LINEA 12,Hospital 20 De Noviembre,39120142,161
-LINEA 5,Misterios,38573211,162
-LINEA 4,Fray Servando,38339749,163
-LINEA 7,Tacuba,37626489,164
-LINEA 6,Uam-azcapotzalco,37255788,165
-LINEA 4,Candelaria,36756080,166
+L5,Misterios,38661893,162
+L4,Fray Servando,38415314,163
+L7,Tacuba,37669107,164
+L6,Uam-azcapotzalco,37313143,165
+L4,Candelaria,36817359,166
 LB,Garibaldi/lagunilla,36497482,167
-LINEA 4,Morelos,36362362,168
-LINEA 12,Parque De Los Venados,35778494,169
-LINEA 9,Ciudad Deportiva,35756060,170
-LÃ­NEA 9,Pantitlã¡n,35484903,171
-LÃ­NEA B,Buenavista,35301450,172
-LINEA 12,Zapotitlã¡n,34881967,173
-LINEA 4,Jamaica,34835986,174
-LINEA 5,Aragã3n,34318712,175
-LINEA 12,Eje Central,34265719,176
-LINEA 6,Vallejo,33693072,177
-LINEA 5,Eduardo Molina,33494710,178
-LINEA 8,La Viga,33431946,179
-LÃ­NEA 9,Tacubaya,33431353,180
-LÃ­NEA 3,Universidad,33273519,181
+L4,Morelos,36422754,168
+LÍNEA 9,Pantitlán,36331714,169
+L9,Ciudad Deportiva,35803918,170
+LINEA 12,Parque De Los Venados,35778494,171
+LÍNEA B,Buenavista,35769140,172
+LINEA 12,Zapotitlán,34881967,173
+L4,Jamaica,34842921,174
+L5,Aragón,34375437,175
+LÍNEA 9,Tacubaya,34272371,176
+LINEA 12,Eje Central,34265719,177
+LÍNEA 3,Universidad,33806920,178
+L6,Vallejo,33761774,179
+L5,Eduardo Molina,33521995,180
+L8,La Viga,33515491,181
 LINEA 12,Ermita,32972611,182
-LINEA 6,Norte 45,31711504,183
-LINEA 7,Tacubaya,30946094,184
-LINEA 8,Santa Anita,30580159,185
-LINEA 12,San Andrã©s Tomatlã¡n,30260725,186
-LÃ­NEA 1,Observatorio,30227756,187
-LINEA 12,Lomas Estrella,30040821,188
-LB,Bosque De Aragã3n,29934452,189
-LINEA 4,Bondojito,29827019,190
-LÃ­NEA B,Ciudad Azteca,29763035,191
-LB,Ricardo Flores Magã3n,29474257,192
-LÃ­NEA A,La Paz,28972998,193
-LINEA 5,Instituto Del Petrã3leo,27529507,194
-LB,Guerrero,27156443,195
-LÃ­NEA 9,Chilpancingo,26829191,196
-LINEA 6,Tezozã3moc,26690061,197
-LÃ­NEA 2,Zã3calo/tenochtitlan,26560622,198
-LÃ­NEA A,Pantitlã¡n,25506513,199
-LINEA 4,Talismã¡n,25458497,200
-LÃ­NEA A,Santa Marta,24253083,201
-LB,Morelos,23955119,202
-LÃ­NEA 1,Chapultepec,23855658,203
-LINEA 5,Consulado,23645259,204
-LÃ­NEA 9,Puebla,23622112,205
-LINEA 5,Hangares,23370834,206
-LÃ­NEA 1,Insurgentes,22279956,207
-LINEA 5,Valle Gã3mez,20622292,208
-LÃ­NEA 3,Zapata,20449003,209
-LINEA 4,Consulado,20262809,210
-LÃ­NEA 2,Tacuba,20149416,211
-LÃ­NEA B,Mãozquiz,19648352,212
-LÃ­NEA 7,Barranca Del Muerto,19622112,213
-LÃ­NEA 3,Miguel Ángel De Quevedo,19377864,214
-LINEA 8,Chabacano,19189549,215
-LÃ­NEA 3,La Raza,18510006,216
-LÃ­NEA 3,Copilco,18478552,217
-LÃ­NEA 2,Normal,18186291,218
-LÃ­NEA 8,San Juan De Letrã¡n,17954793,219
-LÃ­NEA 3,Deportivo 18 De Marzo,17868687,220
-LÃ­NEA 2,Hidalgo,17587098,221
-LÃ­NEA 5,Politã©cnico,17405455,222
-LÃ­NEA 1,Merced,17391853,223
-LÃ­NEA 7,Auditorio,17312211,224
-LÃ­NEA 7,El Rosario,17279714,225
-LÃ­NEA 8,Uam-i,16775226,226
-LINEA 6,Instituto Del Petrã3leo,16733221,227
-LÃ­NEA 6,Martã­n Carrera,16238865,228
-LÃ­NEA 8,Coyuya,16229134,229
-LÃ­NEA 7,Mixcoac,16051218,230
-LÃ­NEA 7,Polanco,16036221,231
-LÃ­NEA 1,Tacubaya,15889623,232
-LÃ­NEA 2,Pino Suã¡rez,15794684,233
-LÃ­NEA A,Tepalcates,15573156,234
-LÃ­NEA B,Impulsora,15253243,235
-L1,Gã3mez Farias,15135173,236
-LÃ­NEA B,Ecatepec,15078557,237
-LÃ­NEA B,Tepito,15057171,238
-LÃ­NEA 1,Balderas,14679903,239
-LÃ­NEA 2,Revoluciã3n,14664927,240
-LÃ­NEA 2,Chabacano,14576569,241
-LÃ­NEA 1,Zaragoza,14512022,242
-L2,Villa De Cortés,14416773,243
-LB,Olímpica,14414999,244
-LÃ­NEA 2,Bellas Artes,14354544,245
-LÃ­NEA 3,Etiopã­a/plaza De La Transparencia,14266257,246
-LÃ­NEA 3,Coyoacã¡n,14255831,247
-LÃ­NEA 9,Mixiuhca,14039409,248
-LÃ­NEA B,Lagunilla,13995540,249
-LÃ­NEA 8,Escuadrã3n 201,13970105,250
-LÃ­NEA 1,Sevilla,13830276,251
-LÃ­NEA A,Los Reyes,13354349,252
-LÃ­NEA 1,Pantitlã¡n,13278494,253
-LINEA 4,Santa Anita,13276086,254
-LÃ­NEA 5,Autobuses Del Norte,13268990,255
-LÃ­NEA 2,Allende,13196441,256
-LÃ­NEA 7,San Joaquã­n,13166534,257
-LÃ­NEA 8,Bellas Artes,13162014,258
-LÃ­NEA B,Nezahualcã3yotl,12925209,259
-LÃ­NEA 4,Martã­n Carrera,12591196,260
-LÃ­NEA 1,Pino Suã¡rez,12473206,261
-LÃ­NEA 8,Salto Del Agua,12445776,262
-LÃ­NEA 5,Terminal Aã©rea,12273826,263
-LÃ­NEA B,Rã­o De Los Remedios,12257229,264
-LÃ­NEA B,Plaza Aragã3n,12106796,265
-LÃ­NEA 6,Ferrerã­a/arena Ciudad De Mã©xico,12080903,266
-LÃ­NEA 8,Atlalilco,12070401,267
-LÃ­NEA B,San Lã¡zaro,12070391,268
-LÃ­NEA 8,Iztacalco,11760093,269
-LÃ­NEA 1,Gã3mez Farã­as,11678990,270
-LÃ­NEA A,Guelatao,11634644,271
-LÃ­NEA 2,Portales,11524858,272
-LÃ­NEA 2,San Cosme,11503802,273
-LÃ­NEA 8,Garibaldi/lagunilla,11449785,274
-LÃ­NEA 3,Viveros/derechos Humanos,11419262,275
-LÃ­NEA 3,Niã±os Hã©roes,11294191,276
-LÃ­NEA A,Acatitla,11177637,277
-LÃ­NEA 2,San Antonio Abad,11165664,278
-LÃ­NEA 9,Patriotismo,11137824,279
-LÃ­NEA B,Olã­mpica,11044116,280
-LÃ­NEA 2,General Anaya,10808931,281
-LÃ­NEA 3,Balderas,10792383,282
-LÃ­NEA 2,Ermita,10728511,283
-LÃ­NEA 3,Tlatelolco,10712144,284
-LÃ­NEA 3,Hospital General,10644506,285
-LÃ­NEA 2,Xola,10501036,286
-LÃ­NEA 3,Centro Mã©dico,10406406,287
-LINEA 6,Deportivo 18 De Marzo,10239195,288
-LÃ­NEA 1,Candelaria,10129704,289
-LÃ­NEA 2,Nativitas,10009325,290
-LÃ­NEA 2,Cuitlã¡huac,9893703,291
-LÃ­NEA 6,El Rosario,9469073,292
-LÃ­NEA B,Deportivo Oceanã­a,9444132,293
-LÃ­NEA 9,Centro Mã©dico,9367037,294
-LINEA 12,Tlaltenco,9307739,295
-LÃ­NEA A,Peã±ã3n Viejo,9268554,296
-LÃ­NEA 1,Cuauhtã©moc,9170581,297
-LÃ­NEA A,Canal De San Juan,9113371,298
-LÃ­NEA 3,Juã¡rez,9068629,299
-LÃ­NEA 2,Viaducto,9065639,300
-LÃ­NEA B,Villa De Aragã3n,9004697,301
-LÃ­NEA 3,Potrero,8931825,302
-LÃ­NEA 6,Lindavista,8915887,303
-LÃ­NEA 2,Villa De Cortã©s,8848222,304
-LÃ­NEA 8,Obrera,8831989,305
-LÃ­NEA 3,Divisiã3n Del Norte,8749565,306
-LÃ­NEA 7,Refinerã­a,8457390,307
-LÃ­NEA 8,Apatlaco,8387983,308
-LÃ­NEA 1,San Lã¡zaro,8351578,309
-LÃ­NEA 3,Eugenia,8313348,310
-LÃ­NEA 9,Lã¡zaro Cã¡rdenas,8270539,311
-LÃ­NEA 7,Camarones,8249747,312
-LÃ­NEA 3,Hidalgo,8230032,313
-LÃ­NEA 8,Doctores,8180359,314
-LÃ­NEA B,Romero Rubio,7939325,315
-LÃ­NEA 2,Colegio Militar,7832081,316
-LÃ­NEA A,Agrã­cola Oriental,7654694,317
-LÃ­NEA 1,Isabel La Catã3lica,7592623,318
-LÃ­NEA 9,Jamaica,7572315,319
-LÃ­NEA 8,Cerro De La Estrella,7501142,320
-LÃ­NEA 1,Moctezuma,7414434,321
-LÃ­NEA 1,Boulevard Puerto Aã©reo,7394573,322
-LÃ­NEA 8,Iztapalapa,7282493,323
-LÃ­NEA 6,La Villa/basã­lica,7159926,324
-LÃ­NEA 2,Panteones,7155366,325
-LÃ­NEA 9,Chabacano,6980579,326
-LÃ­NEA 4,Candelaria,6806939,327
-LÃ­NEA 1,Salto Del Agua,6792275,328
-LÃ­NEA 5,La Raza,6718832,329
-LÃ­NEA 7,San Pedro De Los Pinos,6687165,330
-LÃ­NEA 7,San Antonio,6621835,331
-LÃ­NEA 8,Aculco,6522218,332
-LÃ­NEA 7,Aquiles Serdã¡n,6512136,333
-LÃ­NEA B,Oceanã­a,6240867,334
-LÃ­NEA 3,Guerrero,6122455,335
-LÃ­NEA 4,Fray Servando,5932461,336
-LÃ­NEA 5,Oceanã­a,5738072,337
-LÃ­NEA 7,Tacuba,5551357,338
-LÃ­NEA 6,Vallejo,5298697,339
-LÃ­NEA 9,Velã3dromo,5280790,340
-LÃ­NEA 2,Popotla,4997648,341
-LÃ­NEA 5,Misterios,4971070,342
-LÃ­NEA 4,Canal Del Norte,4924555,343
-LÃ­NEA 1,Juanacatlã¡n,4866814,344
-LÃ­NEA 4,Morelos,4711897,345
-LÃ­NEA 9,Ciudad Deportiva,4676139,346
-LÃ­NEA 5,Aragã3n,4567206,347
-LÃ­NEA 6,Uam-azcapotzalco,4561751,348
-LÃ­NEA 4,Jamaica,4554467,349
-LÃ­NEA 8,La Viga,4533072,350
-LÃ­NEA B,Garibaldi/lagunilla,4391537,351
-LÃ­NEA 6,Norte 45,4355239,352
-LÃ­NEA 12,Atlalilco,4303513,353
-LÃ­NEA B,Ricardo Flores Magã3n,4018671,354
-LÃ­NEA B,Guerrero,4004434,355
-LÃ­NEA 12,Insurgentes Sur,3983274,356
-LÃ­NEA 5,Eduardo Molina,3940722,357
-LÃ­NEA 7,Constituyentes,3843468,358
-LÃ­NEA 1,Balbuena,3815128,359
-LÃ­NEA 4,Bondojito,3605694,360
-LÃ­NEA 6,Tezozã3moc,3418797,361
-LÃ­NEA 7,Tacubaya,3381513,362
-LÃ­NEA 5,Instituto Del Petrã3leo,3366460,363
-LÃ­NEA B,Morelos,3365306,364
-LÃ­NEA 5,Consulado,3360337,365
-LÃ­NEA 8,Santa Anita,3216368,366
-LÃ­NEA B,Bosque De Aragã3n,3197658,367
-LÃ­NEA 12,Tlã¡huac,3197418,368
-LÃ­NEA 5,Hangares,3166229,369
-LÃ­NEA 8,Chabacano,2742221,370
-LÃ­NEA 5,Valle Gã3mez,2714585,371
-LÃ­NEA 4,Talismã¡n,2507750,372
-LÃ­NEA 12,Mexicaltzingo,2263697,373
-LÃ­NEA 4,Consulado,2243230,374
-LÍNEA 3,Indios Verdes,1956637,375
-LÍNEA 2,Cuatro Caminos,1934098,376
-LÃ­NEA 12,Zapata,1924774,377
-LÃ­NEA 12,Perifã©rico Oriente,1889058,378
-LÃ­NEA 6,Instituto Del Petrã3leo,1744507,379
-LÃ­NEA 12,Mixcoac,1739104,380
-LÃ­NEA 12,Tezonco,1567695,381
-LÃ­NEA 12,Hospital 20 De Noviembre,1550206,382
-LÃ­NEA 12,Nopalera,1539894,383
-LÃ­NEA 12,Eje Central,1502345,384
-LÃ­NEA 12,Ermita,1449141,385
-LÍNEA B,Ciudad Azteca,1432369,386
-LÍNEA 5,Pantitlã¡n,1380017,387
-LÃ­NEA 12,Parque De Los Venados,1329333,388
-LÍNEA 8,Constituciã3n De 1917,1314291,389
-LÍNEA 2,Zã3calo/tenochtitlan,1300314,390
-LÃ­NEA 4,Santa Anita,1235517,391
-LÃ­NEA 12,Culhuacã¡n,1161537,392
-LÍNEA 1,Observatorio,1139757,393
-LÃ­NEA 12,Olivos,1091609,394
-LÃ­NEA 12,Calle 11,990887,395
-LÍNEA A,Pantitlã¡n,947758,396
-LÃ­NEA 12,Zapotitlã¡n,938752,397
-L3,Miguel Ãngel De Quevedo,908037,398
-LÃ­NEA 6,Deportivo 18 De Marzo,907001,399
-L-8,Constituciã3n De 1917,876663,400
-LÍNEA 1,Chapultepec,873941,401
-LÍNEA 9,Pantitlã¡n,846811,402
-LÍNEA 9,Tacubaya,841018,403
-L8,Constituciã3n De 1917,823621,404
-LÍNEA 2,Tacuba,744281,405
-LÍNEA 1,Insurgentes,710889,406
-LÍNEA 3,La Raza,699871,407
-L5,Pantitlã¡n,676154,408
-LÍNEA 3,Miguel Ángel De Quevedo,658293,409
-LÍNEA 7,El Rosario,656797,410
-LÍNEA 2,Tasqueã±a,651884,411
-LÍNEA 1,Merced,651687,412
-LÍNEA B,Mãozquiz,649742,413
-LIENA 5,Pantitlã¡n,639889,414
-LÍNEA 7,Barranca Del Muerto,633675,415
-L-B,Ciudad Azteca,633507,416
-LÃ­NEA 12,San Andrã©s Tomatlã¡n,625242,417
-L-A,Pantitlã¡n,612396,418
-LÍNEA 9,Chilpancingo,610228,419
-L-2,Tasqueã±a,602089,420
-LÍNEA 1,Zaragoza,579630,421
-LÍNEA 2,Hidalgo,564324,422
-LÍNEA 1,Pantitlã¡n,561875,423
-LÍNEA 3,Zapata,557736,424
-LINÉA 3,Pantitlã¡n,555832,425
-LNIEA 4,Pantitlã¡n,540551,426
-LÍNEA 3,Universidad,533401,427
-LÃ­NEA 12,Lomas Estrella,525533,428
-LÍNEA 8,San Juan De Letrã¡n,523661,429
-L-7,Barranca Del Muerto,499870,430
-L-5,Pantitlã¡n,498660,431
-LÍNEA B,Impulsora,497841,432
-L9,Tacubaya,483181,433
-L-1,Pantitlã¡n,482521,434
-L-3,Universidad,480928,435
-LÍNEA B,Lagunilla,473051,436
-LÍNEA B,Buenavista,467690,437
-L-1,Zaragoza,467505,438
-LINEA B2,Pantitlã¡n,467204,439
-LÍNEA 11,Pantitlã¡n,464897,440
-LÍNEA 3,Deportivo 18 De Marzo,460987,441
-L-9,Pantitlã¡n,456696,442
-LÍNEA 1,Sevilla,456286,443
-L7,Auditorio,454624,444
-L-1,Insurgentes,451148,445
-LÍNEA 8,Iztacalco,448305,446
-LÍNEA 1,Moctezuma,441763,447
-LÍNEA 2,Pino Suã¡rez,441003,448
-LÍNEA 1,Pino Suã¡rez,438969,449
-LÍNEA 6,El Rosario,436339,450
-LÍNEA 1,Gã3mez Farã­as,435956,451
-L-9,Chilpancingo,434180,452
-L-2,Cuatro Caminos,433064,453
-LÍNEA 2,Revoluciã3n,428253,454
-LÍNEA 8,Garibaldi/lagunilla,427651,455
-L9,Chilpancingo,422996,456
-L-1,Observatorio,420898,457
-L9,Pantitlã¡n,417478,458
-LÍNEA 2,San Cosme,417170,459
-L-3,Deportivo 18 De Marzo,407597,460
-LÍNEA 3,Etiopã­a/plaza De La Transparencia,405521,461
-LÍNEA 2,San Antonio Abad,399969,462
-L-B,Mãozquiz,392104,463
-LÍNEA 7,San Joaquã­n,380204,464
-L-3,Copilco,379600,465
-LINEA 7,Indios Verdes,374718,466
-LÍNEA 1,Balderas,374216,467
-LÍNEA A,Guelatao,370755,468
-LÍNEA 6,Martã­n Carrera,370732,469
-LÍNEA A,Santa Marta,370228,470
-LINEA  6,Pantitlã¡n,361921,471
-LÍNEA 3,Divisiã3n Del Norte,361868,472
-L-3,Miguel Ángel De Quevedo,360434,473
-LÍNEA 2,Nativitas,360317,474
-LÍNEA 2,General Anaya,359513,475
-L-9,Tacubaya,358186,476
-L-1,Merced,357277,477
-LINEA 7,Pantitlã¡n,354680,478
-L-3,Etiopã­a/plaza De La Transparencia,353247,479
-L7,Barranca Del Muerto,348375,480
-L-A,La Paz,347408,481
-LÍNEA 7,Auditorio,345518,482
-LÍNEA A,La Paz,345396,483
-L-7,El Rosario,345364,484
-LÍNEA 6,Ferrerã­a/arena Ciudad De Mã©xico,345218,485
-L-1,Chapultepec,344113,486
-LÍNEA 5,Politã©cnico,342766,487
-LÍNEA 9,Puebla,342330,488
-LÍNEA 3,Hospital General,341701,489
-L-2,Revoluciã3n,341558,490
-LÍNEA 2,Normal,337363,491
-LÍNEA B,Nezahualcã3yotl,335972,492
-LÍNEA 8,Apatlaco,335718,493
-LÍNEA 7,Mixcoac,333726,494
-LÍNEA 3,Viveros/derechos Humanos,331360,495
-LÍNEA 8,Uam-i,329965,496
-L-3,Indios Verdes,329433,497
-LÍNEA 2,Allende,329169,498
-LINEA  6,Cuatro Caminos,328703,499
-L-3,Zapata,327909,500
-LINENA 1,Universidad,326467,501
-LÍNEA 2,Ermita,323840,502
-LÍNEA 3,Hidalgo,323634,503
-L-B,Buenavista,322949,504
-LINÉA 3,Observatorio,321516,505
-LÍNEA 7,Polanco,317090,506
-L-2,Normal,315717,507
-L-1,Gã3mez Farã­as,311637,508
-LÍNEA 2,Chabacano,306761,509
-L-6,Martã­n Carrera,306314,510
-LÍNEA 8,Coyuya,305943,511
-LÍNEA 2,Viaducto,305881,512
-L-2,Allende,304104,513
-LÍNEA 3,Copilco,303347,514
-L-2,Bellas Artes,302059,515
-L-3,La Raza,300424,516
-LÍNEA 9,Mixiuhca,300135,517
-LÃ­NEA 12,Tlaltenco,298779,518
-LÍNEA B,Plaza Aragã3n,298356,519
-LÍNEA 1,Salto Del Agua,297994,520
-LÍNEA 3,Eugenia,294751,521
-LÍNEA 3,Niã±os Hã©roes,294396,522
-LÍNEA 3,Centro Mã©dico,292163,523
-LÍNEA 2,Bellas Artes,289364,524
-LÍNEA B,Tepito,288636,525
-LIENA 5,Tasqueã±a,287972,526
-L-2,Hidalgo,283985,527
-LÍNEA 3,Juã¡rez,283796,528
-LÍNEA 2,Xola,281586,529
-LÍNEA 8,Bellas Artes,281556,530
-LÍNEA 8,Obrera,280136,531
-LÍNEA 9,Patriotismo,278613,532
-LÍNEA 3,Tlatelolco,277001,533
-L-2,Chabacano,275514,534
-LÍNEA 1,Boulevard Puerto Aã©reo,274686,535
-L-8,Garibaldi/lagunilla,274055,536
-L-5,Politã©cnico,272814,537
-LÍNEA 3,Potrero,272197,538
-L-3,Tlatelolco,271936,539
-L5,Autobuses Del Norte,271346,540
-LÍNEA B,Olã­mpica,271300,541
-L-7,Polanco,270771,542
-LINEA  6,Observatorio,268530,543
-LÍNEA B,San Lã¡zaro,268386,544
-LÍNEA B,Deportivo Oceanã­a,264689,545
-L-1,San Lã¡zaro,264352,546
-LÍNEA 8,Escuadrã3n 201,263521,547
-L-2,Tacuba,260828,548
-L-8,Escuadrã3n 201,260650,549
-L-2,Zã3calo/tenochtitlan,256432,550
-L9,Patriotismo,256263,551
-L7,El Rosario,254058,552
-L9,Puebla,251179,553
-L-1,Pino Suã¡rez,248791,554
-L7,Polanco,248063,555
-L-2,General Anaya,247012,556
-L-1,Tacubaya,246882,557
-LÍNEA A,Acatitla,245451,558
-LIENA 5,Buenavista,243818,559
-LÍNEA 7,Aquiles Serdã¡n,243511,560
-LINENA 1,Indios Verdes,243344,561
-LÍNEA 1,Candelaria,241443,562
-L4,Martã­n Carrera,241249,563
-LÍNEA A,Los Reyes,240916,564
-LÍNEA 3,Coyoacã¡n,239004,565
-LÍNEA 1,Tacubaya,238027,566
-L-9,Puebla,235896,567
-LÍNEA 5,Autobuses Del Norte,235429,568
-L-3,Viveros/derechos Humanos,233393,569
-LÍNEA 2,Portales,233103,570
-LINEA B2,Normal,231959,571
-L-7,Auditorio,230805,572
-LÍNEA A,Tepalcates,230383,573
-LÍNEA 2,Colegio Militar,229030,574
-L-8,Bellas Artes,228216,575
-LNIEA 4,Buenavista,226358,576
-LÍNEA 8,Doctores,226305,577
-LÍNEA 2,Cuitlã¡huac,225784,578
-L6,Ferrerã­a/arena Ciudad De Mã©xico,224896,579
-L-7,Mixcoac,222671,580
-L8,Coyuya,222026,581
-L-1,Boulevard Puerto Aã©reo,218422,582
-LÍNEA 9,Jamaica,217290,583
-LINÉA 3,Indios Verdes,216527,584
-L-B,Nezahualcã3yotl,214901,585
-LINEA  6,Tacubaya,213678,586
-LÍNEA 1,Isabel La Catã3lica,213222,587
-LÍNEA 11,Cuatro Caminos,212773,588
-L8,San Juan De Letrã¡n,211138,589
-L6,Martã­n Carrera,210013,590
-L-B,Rã­o De Los Remedios,208847,591
-L-7,San Joaquã­n,206514,592
-LÍNEA 4,Martã­n Carrera,205093,593
-LÍNEA 7,Camarones,204540,594
-LINEA 7,Cuatro Caminos,203715,595
-LÍNEA 11,Universidad,202923,596
-LÍNEA 5,Terminal Aã©rea,202838,597
-LÍNEA 8,Iztapalapa,202532,598
-LÍNEA 2,Villa De Cortã©s,200667,599
-L-1,Moctezuma,200413,600
-LÍNEA A,Peã±ã3n Viejo,198830,601
-LIENA 5,Constituciã3n De 1917,198290,602
-LÍNEA 11,Constituciã3n De 1917,198111,603
-L-3,Coyoacã¡n,195786,604
-LÍNEA 7,San Pedro De Los Pinos,195012,605
-LÍNEA 8,Cerro De La Estrella,192304,606
-L8,Bellas Artes,192289,607
-LÍNEA 1,Cuauhtã©moc,191859,608
-L-8,Uam-i,190065,609
-LÍNEA 6,La Villa/basã­lica,189332,610
-LÍNEA 8,Atlalilco,189302,611
-L8,Uam-i,188544,612
-L-1,Cuauhtã©moc,187799,613
-LÍNEA B,Rã­o De Los Remedios,187437,614
-L-3,Juã¡rez,185896,615
-L-B,Lagunilla,185276,616
-LINENA 1,Chilpancingo,184984,617
-L-B,Ecatepec,183687,618
-L-1,Balderas,182397,619
-LÍNEA 6,Lindavista,181559,620
-L-9,Patriotismo,180755,621
-LÍNEA 1,San Lã¡zaro,179837,622
-LÍNEA 1,Juanacatlã¡n,179541,623
-L-B,Tepito,179287,624
-L-4,Martã­n Carrera,177457,625
-LÍNEA B,Ecatepec,176486,626
-L-8,Iztacalco,175678,627
-LÍNEA 9,Chabacano,175384,628
-L-3,Centro Mã©dico,175182,629
-LNIEA 4,Indios Verdes,173620,630
-L-2,Cuitlã¡huac,170970,631
-LÍNEA A,Canal De San Juan,170388,632
-L-6,La Villa/basã­lica,169554,633
-LIENA 5,Cuatro Caminos,169140,634
-LINEA  6,Ciudad Azteca,167883,635
-L6,Lindavista,167179,636
-L-6,Ferrerã­a/arena Ciudad De Mã©xico,165721,637
-LINÉA 3,Chapultepec,165020,638
-LÍNEA 1,Balbuena,164027,639
-L-A,Guelatao,161010,640
-LNIEA 4,Revoluciã3n,160776,641
-L-B,Deportivo Oceanã­a,160048,642
-LIENA 5,Polanco,159988,643
-LINEA  6,Constituciã3n De 1917,159915,644
-LINEA 7,Zã3calo/tenochtitlan,159295,645
-LÍNEA 4,Canal Del Norte,158382,646
-L5,Terminal Aã©rea,157466,647
-L-3,Hidalgo,156642,648
-L-2,Ermita,154741,649
-LÍNEA 2,Popotla,154580,650
-LÍNEA 9,Lã¡zaro Cã¡rdenas,154521,651
-L-1,Candelaria,153941,652
-LÍNEA 4,Morelos,153447,653
-LÍNEA 9,Velã3dromo,152804,654
-LINEA 7,Chabacano,150976,655
-LÍNEA 3,Guerrero,150720,656
-L-7,San Antonio,150104,657
-L-6,Lindavista,149482,658
-L-5,Terminal Aã©rea,149444,659
-L-3,Hospital General,149374,660
-L-1,Balbuena,149052,661
-LINEA  6,Universidad,148423,662
-L-1,Isabel La Catã3lica,148106,663
-LINEA  6,Indios Verdes,145842,664
-L-5,Autobuses Del Norte,145768,665
-LÍNEA 5,La Raza,144936,666
-LINEA  6,Merced,144553,667
-LNIEA 4,Pino Suã¡rez,144448,668
-LINÉA 3,Normal,144334,669
-LINENA 1,Pantitlã¡n,143826,670
-LÍNEA 7,Refinerã­a,143481,671
-L-8,San Juan De Letrã¡n,143009,672
-L-3,Guerrero,142972,673
-LINEA  6,Buenavista,142859,674
-LÍNEA 8,Salto Del Agua,142330,675
-LÍNEA 7,Tacuba,142004,676
-L-2,Colegio Militar,141900,677
-LIENA 5,Tacubaya,141494,678
-L-B,Villa De Aragã3n,141386,679
-L7,Mixcoac,140523,680
-LÍNEA 2,Panteones,139130,681
-LÍNEA 9,Centro Mã©dico,138983,682
-L-2,Viaducto,138937,683
-L8,Garibaldi/lagunilla,138504,684
-LÍNEA 11,Gã3mez Farã­as,137186,685
-LÍNEA 7,San Antonio,136111,686
-L8,Atlalilco,135458,687
-LÍNEA 7,Tacubaya,135016,688
-L-3,Eugenia,134549,689
-L-B,Plaza Aragã3n,133237,690
-LÍNEA 5,Aragã3n,133232,691
-LNIEA 4,Ciudad Azteca,132970,692
-LINEA 7,Observatorio,132602,693
-L-9,Mixiuhca,132175,694
-LÍNEA 11,Tacubaya,131854,695
-LIENA 5,Ciudad Azteca,131732,696
-L-2,Xola,131630,697
-LINEA B2,Constituciã3n De 1917,131220,698
-L-2,Villa De Cortã©s,130972,699
-LINEA 7,Copilco,130812,700
-L8,Doctores,130135,701
-LINÉA 3,Buenavista,129821,702
-L7,Aquiles Serdã¡n,129486,703
-L-7,Aquiles Serdã¡n,129357,704
-L5,Politã©cnico,129325,705
-LINÉA 3,Bellas Artes,129309,706
-LÍNEA 5,Eduardo Molina,129119,707
-LINEA 7,Divisiã3n Del Norte,128993,708
-LINÉA 3,Barranca Del Muerto,128960,709
-L-8,Cerro De La Estrella,128870,710
-LIENA 5,Observatorio,128811,711
-LÍNEA 11,La Raza,128586,712
-LÍNEA 6,Uam-azcapotzalco,128195,713
-LÍNEA 11,El Rosario,127700,714
-L-A,Tepalcates,127653,715
-LINEA B2,Tacubaya,127564,716
-L-2,San Antonio Abad,127338,717
-L-3,Divisiã3n Del Norte,126424,718
-LINEA  6,Chilpancingo,125976,719
-L-2,Portales,125385,720
-LÍNEA 4,Candelaria,124805,721
-LINEA B2,San Lã¡zaro,124755,722
-LÍNEA 9,Ciudad Deportiva,123965,723
-L-2,San Cosme,123789,724
-LÍNEA A,Agrã­cola Oriental,123348,725
-LÍNEA B,Villa De Aragã3n,122581,726
-L-A,Santa Marta,122200,727
-LÍNEA B,Bosque De Aragã3n,121847,728
-LÍNEA 11,Tacuba,121526,729
-LÍNEA 3,Balderas,121155,730
-L-B,San Lã¡zaro,121132,731
-LINEA 7,Los Reyes,120962,732
-LINEA  6,Martã­n Carrera,120815,733
-LÍNEA 11,La Paz,120657,734
-LÍNEA 4,Fray Servando,120095,735
-L-A,Peã±ã3n Viejo,119925,736
-LIENA 5,Nezahualcã3yotl,119839,737
-LINEA 7,Zaragoza,119379,738
-LÍNEA 11,Zã3calo/tenochtitlan,119119,739
-LÍNEA 6,Norte 45,118527,740
-LÍNEA B,Guerrero,117722,741
-LINÉA 3,La Paz,117595,742
-LINEA B2,Mãozquiz,117515,743
-L-2,Pino Suã¡rez,117507,744
-LINEA  6,Zaragoza,117077,745
-L8,Obrera,117057,746
-LINEA B2,Ecatepec,116914,747
-LINENA 1,Tasqueã±a,116825,748
-LÍNEA 7,Constituyentes,116637,749
-LINENA 1,Uam-i,116493,750
-LINENA 1,Cuatro Caminos,116038,751
-LINEA 7,Buenavista,115742,752
-LINENA 1,Copilco,114252,753
-LINEA B2,Xola,113699,754
-LINEA 7,Merced,113018,755
-LINEA  6,Tacuba,112972,756
-LINENA 1,Constituciã3n De 1917,111901,757
-L8,Iztacalco,111790,758
-LIENA 5,El Rosario,110154,759
-L-8,Apatlaco,109518,760
-L-3,Potrero,109486,761
-LINÉA 3,San Lã¡zaro,109486,762
-LINEA  6,Puebla,109474,763
-LNIEA 4,Universidad,108913,764
-LINENA 1,Zaragoza,108572,765
-LÍNEA 11,Chapultepec,108465,766
-LÍNEA B,Oceanã­a,108197,767
-LINÉA 3,Villa De Cortã©s,108010,768
-LINENA 1,Normal,107612,769
-LNIEA 4,Constituciã3n De 1917,107488,770
-LIENA 5,Normal,107013,771
-LINEA B2,Chilpancingo,106960,772
-L-3,Niã±os Hã©roes,106881,773
-LIENA 5,Insurgentes,106805,774
-L8,Cerro De La Estrella,106703,775
-L7,San Joaquã­n,106529,776
-LINEA B2,Chapultepec,105615,777
-L-8,Coyuya,104718,778
-LINEA 7,Uam-i,104405,779
-LINENA 1,Tacuba,104214,780
-LÍNEA 5,Oceanã­a,103562,781
-L7,San Pedro De Los Pinos,103264,782
-LINEA  6,Tasqueã±a,102687,783
-LIENA 5,Escuadrã3n 201,102185,784
-LÍNEA 8,Santa Anita,102156,785
-LÍNEA 8,La Viga,101891,786
-LINENA 1,Revoluciã3n,101622,787
-LNIEA 4,Balderas,101485,788
-LINEA 7,Ferrerã­a/arena Ciudad De Mã©xico,101335,789
-L9,Chabacano,101027,790
-LINÉA 3,Universidad,100225,791
-LÍNEA B,Ricardo Flores Magã3n,99056,792
-LINENA 1,Chapultepec,98901,793
-LNIEA 4,Zaragoza,98898,794
-LINEA 7,Pino Suã¡rez,98732,795
-LÍNEA 6,Vallejo,98562,796
-LÍNEA 4,Jamaica,98439,797
-LÍNEA 11,Chilpancingo,98132,798
-L-7,Constituyentes,97462,799
-LNIEA 4,Boulevard Puerto Aã©reo,96741,800
-LINENA 1,Zapata,96542,801
-LÍNEA 11,Buenavista,96481,802
-LÍNEA B,Romero Rubio,96472,803
-LNIEA 4,Allende,96338,804
-LINÉA 3,Tasqueã±a,96232,805
-LIENA 5,La Raza,95353,806
-LINEA  6,Tlã¡huac,95188,807
-L8,Apatlaco,95074,808
-LNIEA 4,Chilpancingo,94998,809
-LÍNEA 4,Bondojito,94979,810
-L-1,Salto Del Agua,94717,811
-L-2,Popotla,93908,812
-LÍNEA 11,Mixcoac,93681,813
-LINEA 7,Hidalgo,92632,814
-LINÉA 3,Juã¡rez,92111,815
-LÍNEA 11,Xola,91804,816
-LÍNEA B,Morelos,91066,817
-L8,Escuadrã3n 201,90709,818
-LINEA B2,San Joaquã­n,90681,819
-LÍNEA 11,Martã­n Carrera,90293,820
-LÍNEA 5,Hangares,90192,821
-LÍNEA B,Garibaldi/lagunilla,89872,822
-LINÉA 3,Tacubaya,89868,823
-LÍNEA 11,Polanco,89687,824
-L-B,Olã­mpica,89363,825
-LÍNEA 4,Talismã¡n,89297,826
-LINEA  6,La Villa/basã­lica,88909,827
-L5,Misterios,88682,828
-L-7,Camarones,88369,829
-LIENA 5,Copilco,88337,830
-L-8,Atlalilco,88098,831
-L6,El Rosario,88017,832
-LNIEA 4,La Paz,87908,833
-LINENA 1,Observatorio,87863,834
-LNIEA 4,Chabacano,87196,835
-LINEA 7,Moctezuma,87134,836
-L-8,Obrera,87128,837
-LINEA  6,Copilco,87082,838
-LIENA 5,Plaza Aragã3n,85743,839
-LINENA 1,Deportivo 18 De Marzo,85362,840
-LINEA B2,Cuitlã¡huac,85349,841
-LNIEA 4,Copilco,85348,842
-LIENA 5,Balderas,85341,843
-LNIEA 4,San Lã¡zaro,85256,844
-L6,La Villa/basã­lica,85162,845
-LNIEA 4,Ecatepec,85114,846
-L-2,Panteones,84962,847
-L7,Refinerã­a,84463,848
-L4,Canal Del Norte,84378,849
-L8,La Viga,83545,850
-L5,Oceanã­a,83369,851
-LNIEA 4,Impulsora,83252,852
-L-1,Juanacatlã¡n,83230,853
-LIENA 5,Deportivo Oceanã­a,82770,854
-LNIEA 4,Atlalilco,82711,855
-LÍNEA 11,Hidalgo,82548,856
-LINENA 1,Lindavista,82527,857
-LINENA 1,San Antonio Abad,82448,858
-LIENA 5,General Anaya,81717,859
-LIENA 5,Deportivo 18 De Marzo,81698,860
-L7,San Antonio,81429,861
-LINEA B2,Balderas,81038,862
-LINÉA 3,Deportivo 18 De Marzo,80869,863
-LINENA 1,Niã±os Hã©roes,80827,864
-LINEA  6,Etiopã­a/plaza De La Transparencia,80587,865
-L-B,Impulsora,80569,866
-LINEA B2,Salto Del Agua,80529,867
-LIENA 5,Martã­n Carrera,80446,868
-LINEA B2,Deportivo 18 De Marzo,80108,869
-L-A,Agrã­cola Oriental,80072,870
-L-2,Nativitas,79863,871
-LIENA 5,Mixcoac,79700,872
-LÍNEA 11,Moctezuma,79274,873
-LINEA 7,Martã­n Carrera,78990,874
-L5,La Raza,78937,875
-LNIEA 4,Normal,78859,876
-LÍNEA 8,Aculco,78373,877
-L-A,Los Reyes,78259,878
-L-8,Salto Del Agua,77895,879
-L-9,Jamaica,77893,880
-L-9,Lã¡zaro Cã¡rdenas,77281,881
-LINEA  6,Polanco,77100,882
-LÍNEA 5,Instituto Del Petrã3leo,77089,883
-LINENA 1,Hospital General,76860,884
-LINEA  6,Cuitlã¡huac,76280,885
-LINEA B2,Ermita,76234,886
-L-1,Sevilla,75985,887
-LINEA B2,Zapata,75904,888
-LINEA 7,Gã3mez Farã­as,75833,889
-LINENA 1,Gã3mez Farã­as,75641,890
-L4,Fray Servando,75565,891
-LINENA 1,Buenavista,75151,892
-LINÉA 3,La Raza,74887,893
-L-5,Oceanã­a,74617,894
-LÍNEA 11,Viaducto,74073,895
-LNIEA 4,Tacubaya,74057,896
-LINEA 7,General Anaya,74008,897
-L-A,Acatitla,73811,898
-LÍNEA 11,Chabacano,73482,899
-LÍNEA 11,Observatorio,73075,900
-LINEA 7,Lagunilla,72883,901
-LINENA 1,Hidalgo,72608,902
-L-9,Ciudad Deportiva,72391,903
-LNIEA 4,Miguel Ángel De Quevedo,71954,904
-L-8,Doctores,71500,905
-LNIEA 4,Garibaldi/lagunilla,71497,906
-LINENA 1,San Lã¡zaro,71082,907
-LÍNEA 11,Velã3dromo,70689,908
-L-8,Aculco,70614,909
-LNIEA 4,Mãozquiz,70158,910
-LINENA 1,San Juan De Letrã¡n,69969,911
-LINEA  6,Escuadrã3n 201,69744,912
-L-4,Morelos,69717,913
-L-9,Centro Mã©dico,69570,914
-L-4,Canal Del Norte,69435,915
-L-5,Eduardo Molina,69405,916
-L-6,El Rosario,69309,917
-L9,Jamaica,69142,918
-L6,Vallejo,68702,919
-LINEA B2,Perifã©rico Oriente,68671,920
-L7,Constituyentes,68548,921
-L9,Centro Mã©dico,67829,922
-LINÉA 3,El Rosario,67787,923
-L-5,Misterios,67737,924
-LINEA B2,Garibaldi/lagunilla,67726,925
-LNIEA 4,Autobuses Del Norte,67481,926
-LÍNEA 11,San Cosme,67410,927
-LINEA B2,Zã3calo/tenochtitlan,67398,928
-LINÉA 3,Merced,67253,929
-LINEA  6,Politã©cnico,66745,930
-LNIEA 4,General Anaya,66690,931
-LÍNEA 11,San Juan De Letrã¡n,66626,932
-LÍNEA 5,Misterios,66136,933
-LINENA 1,Merced,65963,934
-LINENA 1,Bellas Artes,65929,935
-LINENA 1,Martã­n Carrera,65902,936
-LNIEA 4,Merced,65709,937
-LÍNEA 11,Copilco,65492,938
-LINEA  6,La Paz,65064,939
-LINENA 1,Etiopã­a/plaza De La Transparencia,64702,940
-LINEA  6,Terminal Aã©rea,64656,941
-LÍNEA 8,Chabacano,64471,942
-LINENA 1,Salto Del Agua,64366,943
-L8,Iztapalapa,64172,944
-L-4,Talismã¡n,64165,945
-LNIEA 4,Chapultepec,63747,946
-LINENA 1,Miguel Ángel De Quevedo,63693,947
-LINENA 1,Juã¡rez,63649,948
-LÍNEA 6,Tezozã3moc,63466,949
-LINEA 7,Insurgentes,62837,950
-L9,Lã¡zaro Cã¡rdenas,62652,951
-LINENA 1,Tacubaya,62386,952
-LINEA B2,Auditorio,62377,953
-LIENA 5,Ferrerã­a/arena Ciudad De Mã©xico,61934,954
-LÍNEA 11,San Antonio Abad,61899,955
-LNIEA 4,Uam-i,61576,956
-L4,Candelaria,61279,957
-LINEA 7,Oceanã­a,60934,958
-LINEA 7,Deportivo 18 De Marzo,60505,959
-L-B,Romero Rubio,60502,960
-L4,Morelos,60392,961
-LINEA 7,Boulevard Puerto Aã©reo,60349,962
-LÍNEA 4,Consulado,60128,963
-LINEA 7,San Lã¡zaro,60041,964
-L-5,La Raza,59891,965
-L-B,Bosque De Aragã3n,59743,966
-LIENA 5,San Lã¡zaro,59685,967
-LNIEA 4,Hospital General,59529,968
-LINENA 1,Impulsora,59203,969
-LIENA 5,Camarones,58725,970
-L9,Ciudad Deportiva,58530,971
-LINEA  6,San Cosme,58522,972
-LÍNEA 11,Nopalera,58459,973
-LINEA B2,Plaza Aragã3n,58425,974
-LINEA  6,Bellas Artes,58277,975
-LNIEA 4,Tacuba,58255,976
-LINENA 1,Mãozquiz,58255,977
-LINEA B2,Nezahualcã3yotl,58093,978
-LÍNEA 11,Isabel La Catã3lica,58080,979
-LIENA 5,Coyuya,57993,980
-L8,Salto Del Agua,57956,981
-LÍNEA 11,Viveros/derechos Humanos,57859,982
-LIENA 5,Tlatelolco,57687,983
-LIENA 5,Acatitla,57522,984
-LINÉA 3,Mixcoac,57374,985
-L6,Uam-azcapotzalco,57355,986
-LINEA  6,General Anaya,57159,987
-LINEA 7,Centro Mã©dico,57093,988
-LNIEA 4,Ferrerã­a/arena Ciudad De Mã©xico,57043,989
-LINEA B2,Impulsora,56926,990
-LINÉA 3,Balderas,56881,991
-L4,Talismã¡n,56786,992
-LINEA 7,Balderas,56784,993
-L5,Aragã3n,56725,994
-L-3,Balderas,56666,995
-LINEA 7,Politã©cnico,56645,996
-L-B,Oceanã­a,56319,997
-LINEA  6,Viveros/derechos Humanos,56131,998
-LNIEA 4,Moctezuma,56068,999
-LINEA 7,Chapultepec,56064,1000
-LNIEA 4,Ermita,55727,1001
-L-A,Canal De San Juan,55543,1002
-L-4,Candelaria,55350,1003
-LINÉA 3,San Antonio,55335,1004
-LÍNEA 11,Balderas,54915,1005
-LÍNEA 11,Pino Suã¡rez,54896,1006
-LNIEA 4,Xola,54860,1007
-LINÉA 3,Obrera,54811,1008
-LNIEA 4,Salto Del Agua,54722,1009
-LÍNEA 11,Barranca Del Muerto,54538,1010
-L-6,Uam-azcapotzalco,54239,1011
-LIENA 5,Xola,53753,1012
-LNIEA 4,Tasqueã±a,53641,1013
-LIENA 5,Atlalilco,53635,1014
-LNIEA 4,Observatorio,53571,1015
-LINENA 1,Oceanã­a,53556,1016
-LINENA 1,Terminal Aã©rea,53464,1017
-L4,Bondojito,53432,1018
-LINEA B2,Observatorio,53411,1019
-LINEA 7,Chilpancingo,53125,1020
-LINENA 1,Allende,53084,1021
-LINENA 1,Puebla,53040,1022
-LIENA 5,Merced,52915,1023
-LNIEA 4,Coyoacã¡n,52672,1024
-LINEA 7,Constituciã3n De 1917,52484,1025
-LINENA 1,Eugenia,52200,1026
-LINEA 7,Niã±os Hã©roes,52130,1027
-LIENA 5,Ermita,51833,1028
-LINENA 1,Autobuses Del Norte,51796,1029
-LINÉA 3,Tacuba,51791,1030
-LINENA 1,Ciudad Azteca,51730,1031
-LINENA 1,Coyoacã¡n,51257,1032
-LINEA  6,Rã­o De Los Remedios,50968,1033
-LINÉA 3,Divisiã3n Del Norte,50291,1034
-LNIEA 4,Zapata,50216,1035
-L-7,Refinerã­a,49954,1036
-LINEA  6,Eje Central,49936,1037
-LINEA B2,Viveros/derechos Humanos,49802,1038
-LÍNEA 11,Merced,49792,1039
-L-4,Bondojito,49713,1040
-LIENA 5,Zapata,49632,1041
-LINEA 7,San Juan De Letrã¡n,49424,1042
-LINEA  6,Moctezuma,49237,1043
-LINEA 7,Salto Del Agua,49173,1044
-L-4,Jamaica,49028,1045
-LINEA B2,Panteones,48775,1046
-LINEA B2,Boulevard Puerto Aã©reo,48565,1047
-LINÉA 3,Viveros/derechos Humanos,48539,1048
-LINEA B2,Terminal Aã©rea,48525,1049
-LINEA 7,Tlã¡huac,48378,1050
-LINÉA 3,Plaza Aragã3n,48367,1051
-L-5,Aragã3n,48034,1052
-L9,Mixiuhca,47987,1053
-LINEA B2,Nopalera,47960,1054
-LNIEA 4,Isabel La Catã3lica,47824,1055
-LNIEA 4,Coyuya,47383,1056
-LINÉA 3,Ecatepec,47294,1057
-LÍNEA 11,Panteones,46823,1058
-LINEA 7,Coyoacã¡n,46756,1059
-LINEA B2,Zapotitlã¡n,46666,1060
-LNIEA 4,Culhuacã¡n,46464,1061
-LINÉA 3,Atlalilco,46426,1062
-LINENA 1,Ermita,46322,1063
-LÍNEA 11,Tepito,46271,1064
-LÍNEA 2,Villa De Cortés,46236,1065
-LINEA 7,Cerro De La Estrella,46157,1066
-LINEA  6,Santa Marta,46109,1067
-LÍNEA 11,Garibaldi/lagunilla,45785,1068
-LINENA 1,La Raza,45754,1069
-LINÉA 3,General Anaya,45740,1070
-L-B,Garibaldi/lagunilla,45699,1071
-L7,Camarones,45691,1072
-LINENA 1,Plaza Aragã3n,45292,1073
-L-7,Tacubaya,45281,1074
-LÍNEA 11,Sevilla,45194,1075
-LÍNEA 11,Los Reyes,45131,1076
-L8,Aculco,45052,1077
-LINEA B2,Refinerã­a,45043,1078
-LINÉA 3,Chilpancingo,44953,1079
-LNIEA 4,Nezahualcã3yotl,44851,1080
-LNIEA 4,Nativitas,44734,1081
-LINEA B2,Candelaria,44520,1082
-LINEA  6,Gã3mez Farã­as,44240,1083
-LINEA B2,La Villa/basã­lica,44216,1084
-LINEA 7,San Antonio Abad,44038,1085
-LINENA 1,Pino Suã¡rez,43977,1086
-L4,Consulado,43827,1087
-LINENA 1,Colegio Militar,43811,1088
-LNIEA 4,Guelatao,43778,1089
-LÍNEA 11,Zaragoza,43752,1090
-LINEA B2,Chabacano,43510,1091
-LÍNEA 11,Autobuses Del Norte,43497,1092
-LINEA B2,Sevilla,43497,1093
-L-5,Valle Gã3mez,43462,1094
-LINEA 7,Juã¡rez,43415,1095
-LÍNEA 11,Centro Mã©dico,43165,1096
-LINEA  6,Nativitas,43057,1097
-LINEA  6,Canal De San Juan,43004,1098
-LINEA B2,San Cosme,42817,1099
-LIENA 5,Chapultepec,42778,1100
-LINEA  6,Jamaica,42723,1101
-L-7,Tacuba,42720,1102
-LIENA 5,Mãozquiz,42668,1103
-L7,Tacuba,42618,1104
-LINEA B2,Gã3mez Farã­as,42604,1105
-LNIEA 4,Martã­n Carrera,42445,1106
-LINÉA 3,Salto Del Agua,42347,1107
-LINEA B2,Tezonco,42260,1108
-LÍNEA 11,Ciudad Azteca,42230,1109
-LIENA 5,Pino Suã¡rez,42162,1110
-LINEA B2,Patriotismo,42147,1111
-LINEA  6,Hidalgo,42145,1112
-LINÉA 3,Cuauhtã©moc,42054,1113
-LNIEA 4,Etiopã­a/plaza De La Transparencia,42042,1114
-LÍNEA 6,Deportivo 18 De Marzo,42024,1115
-LINÉA 3,Moctezuma,41886,1116
-LINÉA 3,Guerrero,41786,1117
-LINÉA 3,Insurgentes,41736,1118
-LINEA  6,Romero Rubio,41690,1119
-LINEA  6,Garibaldi/lagunilla,41518,1120
-LIENA 5,Revoluciã3n,41431,1121
-L-6,Vallejo,41389,1122
-LINENA 1,Mixiuhca,41294,1123
-LINEA  6,Chabacano,41222,1124
-LINEA  6,Deportivo Oceanã­a,41154,1125
-LÍNEA 11,Bellas Artes,41094,1126
-LINEA  6,Allende,41067,1127
-LINENA 1,Viveros/derechos Humanos,40952,1128
-LIENA 5,Lindavista,40922,1129
-LINÉA 3,San Juan De Letrã¡n,40883,1130
-LINEA  6,Iztapalapa,40802,1131
-LÍNEA 4,Santa Anita,40556,1132
-LNIEA 4,Gã3mez Farã­as,40548,1133
-LIENA 5,Puebla,40236,1134
-LNIEA 4,Bellas Artes,40207,1135
-L-B,Morelos,39936,1136
-LÍNEA 11,Eugenia,39931,1137
-LINENA 1,Olã­mpica,39628,1138
-LINENA 1,Mixcoac,39600,1139
-LNIEA 4,Tepito,39452,1140
-LNIEA 4,Portales,39447,1141
-LINEA  6,La Raza,39391,1142
-LINEA B2,Mexicaltzingo,39317,1143
-LINÉA 3,Acatitla,39293,1144
-LIENA 5,Ecatepec,39272,1145
-LIENA 5,Gã3mez Farã­as,39141,1146
-LINÉA 3,Perifã©rico Oriente,39136,1147
-L9,Velã3dromo,39120,1148
-LINENA 1,Atlalilco,39043,1149
-LIENA 5,San Antonio Abad,39036,1150
-LINEA B2,San Antonio,38991,1151
-LINÉA 3,Ferrerã­a/arena Ciudad De Mã©xico,38853,1152
-L-8,Santa Anita,38846,1153
-LINEA  6,Auditorio,38838,1154
-LINEA  6,Ferrerã­a/arena Ciudad De Mã©xico,38760,1155
-L-B,Ricardo Flores Magã3n,38567,1156
-LINEA 7,Rã­o De Los Remedios,38520,1157
-LINEA B2,Polanco,38414,1158
-LIENA 5,Salto Del Agua,38413,1159
-LIENA 5,Potrero,38374,1160
-LÍNEA 11,Insurgentes Sur,38103,1161
-LIENA 5,Autobuses Del Norte,38024,1162
-L-8,Iztapalapa,37965,1163
-LINEA B2,Merced,37963,1164
-L-B,Guerrero,37955,1165
-LINEA B2,Niã±os Hã©roes,37852,1166
-LÍNEA 11,Ecatepec,37743,1167
-LINEA  6,Portales,37706,1168
-LINEA  6,San Juan De Letrã¡n,37702,1169
-LINEA  6,Candelaria,37688,1170
-LINEA 7,Canal De San Juan,37629,1171
-LINEA  6,Tepalcates,37552,1172
-LINEA  6,Salto Del Agua,37549,1173
-LINEA 7,Santa Marta,37337,1174
-LÍNEA 11,Peã±ã3n Viejo,37145,1175
-LÍNEA 11,Santa Marta,37050,1176
-L-4,Fray Servando,37010,1177
-LINENA 1,Panteones,36955,1178
-LINEA B2,Coyuya,36769,1179
-LNIEA 4,Polanco,36705,1180
-L-9,Chabacano,36689,1181
-L-6,Instituto Del Petrã3leo,36435,1182
-LINEA 7,Ciudad Deportiva,36346,1183
-LINEA 7,Aculco,36312,1184
-LINENA 1,Guelatao,36243,1185
-LINENA 1,Barranca Del Muerto,35952,1186
-L5,Valle Gã3mez,35875,1187
-LINEA  6,Los Reyes,35875,1188
-L-5,Instituto Del Petrã3leo,35849,1189
-LINEA 7,Mixiuhca,35806,1190
-LINEA  6,Villa De Aragã3n,35740,1191
-LNIEA 4,La Raza,35664,1192
-LÍNEA 11,Hospital General,35644,1193
-LINEA B2,Juã¡rez,35592,1194
-L-5,Consulado,35548,1195
-LINÉA 3,Hidalgo,35440,1196
-LINEA B2,Los Reyes,35292,1197
-LINÉA 3,Pino Suã¡rez,35243,1198
-L-8,Chabacano,35216,1199
-LINENA 1,Politã©cnico,35029,1200
-LINENA 1,Velã3dromo,34997,1201
-LINÉA 3,Tlatelolco,34987,1202
-LINEA B2,Mixcoac,34924,1203
-LINENA 1,Ecatepec,34839,1204
-LÍNEA 11,Acatitla,34770,1205
-LNIEA 4,Insurgentes Sur,34673,1206
-LINEA  6,Ecatepec,34615,1207
-LINENA 1,Viaducto,34610,1208
-LINEA 7,Colegio Militar,34518,1209
-LÍNEA 11,Revoluciã3n,34463,1210
-L8,Santa Anita,34437,1211
-LINÉA 3,Doctores,34322,1212
-LINÉA 3,Constituyentes,34241,1213
-LÍNEA 11,Tlatelolco,34139,1214
-LINEA 7,Apatlaco,34019,1215
-LÍNEA 5,Valle Gã3mez,34006,1216
-LINEA 7,Potrero,34001,1217
-LIENA 5,Garibaldi/lagunilla,33938,1218
-LINEA B2,Hidalgo,33910,1219
-LINÉA 3,Garibaldi/lagunilla,33908,1220
-LIENA 5,Universidad,33851,1221
-LINEA B2,El Rosario,33633,1222
-LINEA  6,Plaza Aragã3n,33629,1223
-LIENA 5,Eje Central,33579,1224
-LINÉA 3,Autobuses Del Norte,33574,1225
-LINENA 1,Constituyentes,33572,1226
-LINENA 1,Iztacalco,33428,1227
-LINEA  6,Acatitla,33397,1228
-LINEA 7,Bellas Artes,33282,1229
-LNIEA 4,Los Reyes,33279,1230
-LÍNEA 11,Parque De Los Venados,33258,1231
-LIENA 5,Etiopã­a/plaza De La Transparencia,33227,1232
-LINENA 1,Guerrero,33040,1233
-LINÉA 3,Miguel Ángel De Quevedo,32907,1234
-LIENA 5,San Antonio,32893,1235
-LINEA 7,Cuitlã¡huac,32539,1236
-LINENA 1,Nopalera,32453,1237
-LIENA 5,Olivos,32335,1238
-LINEA 7,Perifã©rico Oriente,32316,1239
-LINEA B2,Tacuba,32307,1240
-L6,Norte 45,32295,1241
-LINENA 1,Centro Mã©dico,32181,1242
-LINÉA 3,Aquiles Serdã¡n,32063,1243
-LINENA 1,Boulevard Puerto Aã©reo,32058,1244
-LINEA  6,San Lã¡zaro,31863,1245
-LÍNEA 6,Instituto Del Petrã3leo,31803,1246
-LINENA 1,Candelaria,31735,1247
-LIENA 5,Jamaica,31634,1248
-LINÉA 3,Apatlaco,31617,1249
-LINÉA 3,Patriotismo,31590,1250
-L5,Consulado,31551,1251
-LINEA  6,Tezonco,31536,1252
-LÍNEA 11,San Antonio,31493,1253
-LINEA B2,Misterios,31398,1254
-LINEA B2,Mixiuhca,31313,1255
-LIENA 5,Chabacano,31243,1256
-LÍNEA 5,Consulado,31097,1257
-LÍNEA 11,Culhuacã¡n,30991,1258
-LINEA 7,Culhuacã¡n,30875,1259
-LINEA B2,Martã­n Carrera,30826,1260
-LINEA 7,Panteones,30720,1261
-LÍNEA 11,Juã¡rez,30660,1262
-LÍNEA 11,Tezozã3moc,30655,1263
-LINENA 1,Auditorio,30565,1264
-LÍNEA 11,Impulsora,30534,1265
-LNIEA 4,Mexicaltzingo,30462,1266
-LIENA 5,Candelaria,30407,1267
-LINEA B2,Agrã­cola Oriental,30254,1268
-LÍNEA 11,Salto Del Agua,30245,1269
-L7,Tacubaya,30149,1270
-LINÉA 3,Coyoacã¡n,30123,1271
-LINEA B2,Obrera,30109,1272
-LINÉA 3,Auditorio,29919,1273
-LINÉA 3,Mexicaltzingo,29904,1274
-LNIEA 4,Consulado,29835,1275
-LÍNEA 11,Agrã­cola Oriental,29773,1276
-LÍNEA 11,Ferrerã­a/arena Ciudad De Mã©xico,29670,1277
-LINEA 7,Guerrero,29618,1278
-LINEA  6,Normal,29589,1279
-LINENA 1,Portales,29490,1280
-LNIEA 4,Patriotismo,29402,1281
-LINEA  6,Cuauhtã©moc,29397,1282
-LNIEA 4,Cuitlã¡huac,29287,1283
-LINEA B2,Popotla,29268,1284
-LÍNEA 1,Gã3mez Farias,29194,1285
-L-4,Santa Anita,29182,1286
-LINÉA 3,Santa Marta,29114,1287
-LINÉA 3,Romero Rubio,29021,1288
-LINENA 1,Tepito,28981,1289
-LIENA 5,Lã¡zaro Cã¡rdenas,28968,1290
-LNIEA 4,Centro Mã©dico,28922,1291
-LÍNEA 11,Nativitas,28888,1292
-LINEA B2,Nativitas,28856,1293
-LINENA 1,Romero Rubio,28831,1294
-LINÉA 3,Ermita,28823,1295
-LINEA  6,Tlatelolco,28794,1296
-LINEA  6,Ciudad Deportiva,28786,1297
-LINEA  6,Chapultepec,28625,1298
-LINEA B2,Bosque De Aragã3n,28603,1299
-LNIEA 4,Lagunilla,28528,1300
-LINEA 7,Sevilla,28467,1301
-LNIEA 4,Tlatelolco,28464,1302
-LINENA 1,Moctezuma,28449,1303
-LINEA  6,Iztacalco,28420,1304
-LINEA B2,Apatlaco,28406,1305
-LINÉA 3,Agrã­cola Oriental,28311,1306
-LINEA 7,Morelos,28289,1307
-LINEA 7,Iztacalco,28265,1308
-LINÉA 3,Nativitas,28224,1309
-L-7,San Pedro De Los Pinos,28168,1310
-LINEA 7,Ermita,28131,1311
-LINÉA 3,Gã3mez Farã­as,28079,1312
-LINEA 7,La Paz,28070,1313
-LIENA 5,San Pedro De Los Pinos,27923,1314
-LIENA 5,San Joaquã­n,27887,1315
-LINENA 1,Cuauhtã©moc,27879,1316
-LINÉA 3,Guelatao,27741,1317
-LINÉA 3,Coyuya,27672,1318
-LNIEA 4,El Rosario,27653,1319
-LINEA  6,Perifã©rico Oriente,27571,1320
-LINÉA 3,Nopalera,27536,1321
-LINEA B2,Revoluciã3n,27416,1322
-LÍNEA 11,Villa De Cortã©s,27348,1323
-LNIEA 4,Norte 45,27331,1324
-LNIEA 4,Viveros/derechos Humanos,27302,1325
-LNIEA 4,Hangares,27295,1326
-L5,Eduardo Molina,27285,1327
-LINENA 1,Villa De Aragã3n,27198,1328
-LINEA  6,Calle 11,27182,1329
-LINEA B2,Politã©cnico,27128,1330
-LINÉA 3,Escuadrã3n 201,27081,1331
-LINEA B2,Centro Mã©dico,27077,1332
-LINENA 1,Vallejo,27048,1333
-L-5,Hangares,26987,1334
-LIENA 5,Auditorio,26987,1335
-LINEA B2,Morelos,26921,1336
-LINEA B2,Oceanã­a,26896,1337
-LINENA 1,Potrero,26857,1338
-LNIEA 4,Deportivo 18 De Marzo,26808,1339
-LINÉA 3,Terminal Aã©rea,26773,1340
-LNIEA 4,Mixcoac,26766,1341
-LINEA  6,Zapata,26684,1342
-LINEA 7,Nezahualcã3yotl,26626,1343
-LINEA B2,Jamaica,26622,1344
-LINEA 7,Allende,26573,1345
-LINÉA 3,Villa De Aragã3n,26555,1346
-LINEA B2,Allende,26532,1347
-LÍNEA 11,Zapata,26419,1348
-L-6,Tezozã3moc,26284,1349
-LÍNEA B,Olímpica,26255,1350
-LIENA 5,Hospital General,26241,1351
-LNIEA 4,Escuadrã3n 201,26180,1352
-LINEA B2,La Paz,26157,1353
-LINEA 7,Zapata,26155,1354
-LINENA 1,Escuadrã3n 201,26128,1355
-LINÉA 3,Mãozquiz,26124,1356
-LÍNEA 11,Auditorio,25974,1357
-LÍNEA 11,Patriotismo,25841,1358
-LNIEA 4,Eugenia,25804,1359
-LINÉA 3,Lomas Estrella,25803,1360
-LÍNEA 11,Popotla,25722,1361
-L-6,Norte 45,25716,1362
-LNIEA 4,Deportivo Oceanã­a,25475,1363
-LINÉA 3,Insurgentes Sur,25469,1364
-LIENA 5,Mexicaltzingo,25315,1365
-LINEA B2,Vallejo,25253,1366
-LÍNEA 11,Portales,25140,1367
-LÍNEA 11,Constituyentes,25125,1368
-LÍNEA 11,Rã­o De Los Remedios,25082,1369
-LINEA B2,Copilco,25005,1370
-LINÉA 3,Impulsora,24970,1371
-LINEA  6,San Pedro De Los Pinos,24938,1372
-LINÉA 3,Sevilla,24921,1373
-LINEA 7,Viveros/derechos Humanos,24855,1374
-LINEA  6,Refinerã­a,24725,1375
-LNIEA 4,Tezonco,24577,1376
-LINENA 1,Chabacano,24577,1377
-LINEA  6,Niã±os Hã©roes,24574,1378
-LINEA 7,Santa Anita,24570,1379
-LINEA  6,Uam-i,24545,1380
-L-8,La Viga,24512,1381
-LINEA 7,Garibaldi/lagunilla,24384,1382
-LINEA 7,Hospital General,24325,1383
-LINÉA 3,Chabacano,24316,1384
-LINEA B2,San Juan De Letrã¡n,24251,1385
-LIENA 5,Villa De Cortã©s,24217,1386
-LINENA 1,Cuitlã¡huac,24150,1387
-LÍNEA 11,Lindavista,23978,1388
-LNIEA 4,Mixiuhca,23923,1389
-LINEA  6,Camarones,23835,1390
-L8,Chabacano,23719,1391
-LINEA B2,Pino Suã¡rez,23717,1392
-LÍNEA 11,Canal De San Juan,23702,1393
-LINEA  6,Balderas,23667,1394
-LINEA 7,Cuauhtã©moc,23570,1395
-LNIEA 4,Instituto Del Petrã3leo,23413,1396
-LINÉA 3,Panteones,23344,1397
-LNIEA 4,Niã±os Hã©roes,23271,1398
-LÍNEA 11,Oceanã­a,23248,1399
-LÍNEA 11,Juanacatlã¡n,23166,1400
-LINEA  6,San Joaquã­n,23137,1401
-LNIEA 4,Guerrero,23121,1402
-LIENA 5,Santa Marta,23041,1403
-LÍNEA 11,Boulevard Puerto Aã©reo,23033,1404
-LINENA 1,Misterios,22960,1405
-LINEA  6,Guelatao,22938,1406
-LINEA B2,Bellas Artes,22895,1407
-LNIEA 4,Oceanã­a,22890,1408
-LINENA 1,El Rosario,22854,1409
-LINEA B2,Miguel Ángel De Quevedo,22763,1410
-L4,Santa Anita,22758,1411
-LIENA 5,Consulado,22715,1412
-LINÉA 3,Tepito,22643,1413
-LINEA  6,Norte 45,22631,1414
-LINÉA 3,Candelaria,22509,1415
-L5,Hangares,22503,1416
-LINENA 1,San Joaquã­n,22449,1417
-LINÉA 3,Iztacalco,22351,1418
-LINENA 1,Isabel La Catã3lica,22275,1419
-LINÉA 3,Santa Anita,22234,1420
-LINENA 1,Nativitas,22222,1421
-LINÉA 3,Canal Del Norte,22082,1422
-LINENA 1,Apatlaco,22032,1423
-LNIEA 4,Refinerã­a,22026,1424
-LIENA 5,Uam-i,21998,1425
-LINÉA 3,Mixiuhca,21993,1426
-LINEA 7,Coyuya,21976,1427
-LIENA 5,Popotla,21932,1428
-LINEA 7,Ecatepec,21923,1429
-LINEA  6,San Antonio,21830,1430
-LINENA 1,Obrera,21758,1431
-LINENA 1,Perifã©rico Oriente,21692,1432
-LINEA B2,Insurgentes,21689,1433
-LINENA 1,Coyuya,21615,1434
-LINEA 7,Guelatao,21581,1435
-LÍNEA 11,Tezonco,21474,1436
-LINEA  6,Atlalilco,21473,1437
-LINÉA 3,Peã±ã3n Viejo,21410,1438
-LINÉA 3,Ricardo Flores Magã3n,21301,1439
-LÍNEA 11,Cuitlã¡huac,21258,1440
-LINENA 1,Balderas,21223,1441
-LINÉA 3,Revoluciã3n,21125,1442
-LINÉA 3,Olã­mpica,21111,1443
-LINEA  6,Aculco,20982,1444
-LÍNEA 11,Divisiã3n Del Norte,20980,1445
-LINEA  6,Panteones,20959,1446
-LIENA 5,Bellas Artes,20860,1447
-LÍNEA 11,Bondojito,20797,1448
-LINEA B2,Guerrero,20781,1449
-LINEA B2,Peã±ã3n Viejo,20775,1450
-LINEA  6,Autobuses Del Norte,20747,1451
-LÍNEA 11,Guelatao,20711,1452
-LINÉA 3,Fray Servando,20688,1453
-LIENA 5,Coyoacã¡n,20670,1454
-LINEA  6,Villa De Cortã©s,20559,1455
-LINEA B2,Aquiles Serdã¡n,20400,1456
-LINEA B2,Lindavista,20384,1457
-LINÉA 3,Consulado,20374,1458
-LÍNEA 11,Aquiles Serdã¡n,20371,1459
-LIENA 5,Nopalera,20348,1460
-LIENA 5,Bosque De Aragã3n,20307,1461
-LINEA B2,Ferrerã­a/arena Ciudad De Mã©xico,20211,1462
-LIENA 5,Tepito,20189,1463
-LINÉA 3,Tezonco,20051,1464
-LINEA B2,Tepito,20032,1465
-LINEA  6,Centro Mã©dico,20025,1466
-LINENA 1,Popotla,19928,1467
-LINEA B2,Autobuses Del Norte,19910,1468
-LINEA 7,Tepito,19781,1469
-LINEA  6,Mixcoac,19689,1470
-LÍNEA 11,Vallejo,19620,1471
-LIENA 5,Fray Servando,19613,1472
-LNIEA 4,Doctores,19593,1473
-LÍNEA 11,La Viga,19532,1474
-LIENA 5,Agrã­cola Oriental,19436,1475
-LIENA 5,Misterios,19300,1476
-LIENA 5,San Juan De Letrã¡n,19225,1477
-LINÉA 3,Martã­n Carrera,19224,1478
-LINENA 1,Fray Servando,19195,1479
-LIENA 5,Instituto Del Petrã3leo,19169,1480
-LINEA B2,Santa Marta,19160,1481
-LINÉA 3,Politã©cnico,19092,1482
-LINÉA 3,Zã3calo/tenochtitlan,19026,1483
-LIENA 5,Terminal Aã©rea,18988,1484
-LINEA  6,Revoluciã3n,18980,1485
-LIENA 5,Perifã©rico Oriente,18937,1486
-LINEA 7,Iztapalapa,18875,1487
-LIENA 5,Centro Mã©dico,18782,1488
-LINEA 7,Candelaria,18769,1489
-LINEA  6,Santa Anita,18718,1490
-LINÉA 3,Instituto Del Petrã3leo,18717,1491
-LÍNEA 11,Deportivo 18 De Marzo,18710,1492
-LIENA 5,Oceanã­a,18700,1493
-LIENA 5,Aquiles Serdã¡n,18609,1494
-LNIEA 4,Iztapalapa,18574,1495
-LIENA 5,Hangares,18562,1496
-LIENA 5,San Andrã©s Tomatlã¡n,18538,1497
-LNIEA 4,Colegio Militar,18307,1498
-LINEA  6,Mixiuhca,18265,1499
-L5,Instituto Del Petrã3leo,18215,1500
-L6,Tezozã3moc,18201,1501
-L-4,Consulado,18174,1502
-LIENA 5,Moctezuma,18133,1503
-LÍNEA 11,Atlalilco,18050,1504
-LINEA 7,Portales,18022,1505
-LIENA 5,Bondojito,17994,1506
-LIENA 5,Hidalgo,17822,1507
-LINEA 7,La Villa/basã­lica,17671,1508
-LINENA 1,Cerro De La Estrella,17668,1509
-LIENA 5,Aragã3n,17624,1510
-LINEA B2,Iztapalapa,17621,1511
-LÍNEA 11,Terminal Aã©rea,17600,1512
-LINEA 7,Terminal Aã©rea,17487,1513
-LINENA 1,Garibaldi/lagunilla,17475,1514
-LINEA B2,Camarones,17471,1515
-LINEA  6,Patriotismo,17452,1516
-LINEA B2,San Pedro De Los Pinos,17449,1517
-LNIEA 4,La Villa/basã­lica,17430,1518
-LNIEA 4,Rã­o De Los Remedios,17298,1519
-L-2,Villa De Cortés,17171,1520
-LINÉA 3,Morelos,17087,1521
-LINÉA 3,San Cosme,17084,1522
-LINEA B2,Eje Central,17079,1523
-LIENA 5,Balbuena,17069,1524
-LIENA 5,Iztapalapa,17013,1525
-LÍNEA 11,Hospital 20 De Noviembre,16921,1526
-LINEA B2,Isabel La Catã3lica,16914,1527
-LNIEA 4,Olímpica,16775,1528
-LINEA  6,Oceanã­a,16771,1529
-LIENA 5,Uam-azcapotzalco,16770,1530
-LINEA B2,Villa De Aragã3n,16527,1531
-LINEA  6,Morelos,16525,1532
-LIENA 5,Juanacatlã¡n,16502,1533
-LINEA B2,Balbuena,16456,1534
-LINEA B2,Olivos,16403,1535
-LINÉA 3,Ciudad Deportiva,16401,1536
-LINENA 1,Peã±ã3n Viejo,16313,1537
-LÍNEA 11,Tepalcates,16277,1538
-LIENA 5,Zapotitlã¡n,16147,1539
-LINEA  6,Ricardo Flores Magã3n,16132,1540
-LIENA 5,Sevilla,16092,1541
-LINEA  6,Coyoacã¡n,16045,1542
-LINÉA 3,Norte 45,15999,1543
-LINEA  6,Bondojito,15954,1544
-L-9,Velã3dromo,15891,1545
-LNIEA 4,Juanacatlã¡n,15875,1546
-LINEA B2,Canal De San Juan,15870,1547
-LINEA 7,La Viga,15863,1548
-LIENA 5,Canal Del Norte,15846,1549
-LNIEA 4,Iztacalco,15838,1550
-LIENA 5,Canal De San Juan,15833,1551
-LIENA 5,San Cosme,15802,1552
-LÍNEA 11,Aculco,15686,1553
-LINÉA 3,Eduardo Molina,15626,1554
-LIENA 5,Villa De Aragã3n,15572,1555
-LINENA 1,Sevilla,15467,1556
-LÍNEA 11,Norte 45,15466,1557
-L-1,Gã3mez Farias,15413,1558
-LINÉA 3,Lã¡zaro Cã¡rdenas,15398,1559
-LINEA 7,Eugenia,15371,1560
-LNIEA 4,San Antonio,15368,1561
-LÍNEA 11,Ermita,15279,1562
-L6,Deportivo 18 De Marzo,15096,1563
-LINÉA 3,Zapotitlã¡n,15086,1564
-LINEA 7,Acatitla,14957,1565
-LINEA  6,Divisiã3n Del Norte,14852,1566
-LINEA B2,Uam-i,14848,1567
-LINEA  6,Potrero,14832,1568
-LIENA 5,Doctores,14824,1569
-LNIEA 4,Panteones,14817,1570
-LINEA B2,Aragã3n,14817,1571
-LÍNEA 11,Jamaica,14801,1572
-LÍNEA 11,Balbuena,14748,1573
-LINEA  6,Fray Servando,14596,1574
-LINENA 1,Insurgentes Sur,14549,1575
-LIENA 5,Boulevard Puerto Aã©reo,14465,1576
-LINEA  6,Zapotitlã¡n,14442,1577
-LINEA 7,Instituto Del Petrã3leo,14388,1578
-LINEA B2,Romero Rubio,14305,1579
-LIENA 5,Ciudad Deportiva,14282,1580
-LIENA 5,Aculco,14176,1581
-LINEA 7,Zapotitlã¡n,14165,1582
-LINÉA 3,Viaducto,14138,1583
-LINEA B2,Escuadrã3n 201,14024,1584
-LÍNEA 11,Uam-i,14018,1585
-LINEA  6,Hangares,13974,1586
-LÍNEA 11,Niã±os Hã©roes,13927,1587
-LINÉA 3,Velã3dromo,13913,1588
-LINENA 1,Culhuacã¡n,13864,1589
-LINEA  6,Doctores,13837,1590
-LINEA  6,Obrera,13597,1591
-LINEA B2,Fray Servando,13572,1592
-LINEA B2,Portales,13524,1593
-LINEA 7,Tlatelolco,13477,1594
-LINEA 7,San Andrã©s Tomatlã¡n,13400,1595
-LNIEA 4,Canal De San Juan,13399,1596
-LNIEA 4,Lindavista,13253,1597
-LINENA 1,Villa De Cortã©s,13214,1598
-LINEA B2,Doctores,13152,1599
-LINENA 1,Los Reyes,13149,1600
-LIENA 5,Ricardo Flores Magã3n,13146,1601
-LINEA 7,Jamaica,13042,1602
-LNIEA 4,Plaza Aragã3n,12939,1603
-LINEA 7,Peã±ã3n Viejo,12862,1604
-LINEA  6,Guerrero,12726,1605
-LNIEA 4,Aquiles Serdã¡n,12681,1606
-LÍNEA 11,Uam-azcapotzalco,12667,1607
-LÍNEA 11,Guerrero,12664,1608
-LINEA B2,Santa Anita,12646,1609
-LÍNEA 11,Nezahualcã3yotl,12642,1610
-LINEA 7,Lã¡zaro Cã¡rdenas,12615,1611
-LINEA  6,Constituyentes,12582,1612
-LNIEA 4,Cuauhtã©moc,12546,1613
-LINEA 7,Etiopã­a/plaza De La Transparencia,12517,1614
-LÍNEA 11,Hangares,12497,1615
-LNIEA 4,Lã¡zaro Cã¡rdenas,12477,1616
-LINEA  6,Lã¡zaro Cã¡rdenas,12444,1617
-LÍNEA 11,Mixiuhca,12440,1618
-LINEA  6,Hospital 20 De Noviembre,12426,1619
-LINÉA 3,Centro Mã©dico,12412,1620
-LIENA 5,Los Reyes,12395,1621
-LINENA 1,Acatitla,12390,1622
-LIENA 5,Morelos,12366,1623
-LÍNEA 11,San Joaquã­n,12203,1624
-LNIEA 4,Misterios,12197,1625
-L-6,Deportivo 18 De Marzo,12171,1626
-LIENA 5,Obrera,12125,1627
-LINENA 1,Lomas Estrella,12100,1628
-LINEA  6,Parque De Los Venados,12072,1629
-LINÉA 3,Etiopã­a/plaza De La Transparencia,12055,1630
-LÍNEA 11,Bosque De Aragã3n,11956,1631
-LÍNEA 11,Doctores,11944,1632
-LNIEA 4,Cerro De La Estrella,11935,1633
-LINEA B2,Lã¡zaro Cã¡rdenas,11886,1634
-LINENA 1,General Anaya,11851,1635
-LINÉA 3,Aragã3n,11842,1636
-LINEA B2,Instituto Del Petrã3leo,11837,1637
-LINENA 1,Morelos,11818,1638
-LIENA 5,Apatlaco,11760,1639
-LINENA 1,Calle 11,11743,1640
-L6,Instituto Del Petrã3leo,11734,1641
-LINEA  6,Instituto Del Petrã3leo,11733,1642
-LNIEA 4,Popotla,11703,1643
-LINEA 7,Balbuena,11696,1644
-LÍNEA 11,San Andrã©s Tomatlã¡n,11688,1645
-LINENA 1,Deportivo Oceanã­a,11674,1646
-LINEA B2,San Andrã©s Tomatlã¡n,11666,1647
-LIENA 5,Tepalcates,11653,1648
-LINEA B2,Cerro De La Estrella,11609,1649
-LINEA  6,Eugenia,11599,1650
-LINENA 1,Polanco,11402,1651
-LNIEA 4,Morelos,11386,1652
-LNIEA 4,Viaducto,11361,1653
-LINENA 1,Ciudad Deportiva,11300,1654
-LINEA B2,Bondojito,11239,1655
-LNIEA 4,Agrã­cola Oriental,11219,1656
-LINEA 7,Parque De Los Venados,11208,1657
-LINENA 1,Iztapalapa,11188,1658
-LÍNEA 11,Zapotitlã¡n,11178,1659
-LINEA 7,Obrera,11164,1660
-LINEA B2,Olã­mpica,11094,1661
-LINEA  6,Valle Gã3mez,11080,1662
-LINÉA 3,Xola,11053,1663
-LINENA 1,Valle Gã3mez,11047,1664
-LINENA 1,Mexicaltzingo,11047,1665
-LINÉA 3,Refinerã­a,11022,1666
-LINEA  6,Hospital General,10896,1667
-LINEA B2,Tezozã3moc,10833,1668
-LINEA 7,Romero Rubio,10787,1669
-LÍNEA 11,Consulado,10766,1670
-LINEA  6,San Antonio Abad,10728,1671
-LIENA 5,Guerrero,10588,1672
-LINEA B2,Moctezuma,10566,1673
-LINENA 1,Refinerã­a,10548,1674
-LINEA  6,Cerro De La Estrella,10532,1675
-LIENA 5,Viaducto,10492,1676
-LNIEA 4,Romero Rubio,10491,1677
-LINÉA 3,Tezozã3moc,10375,1678
-LINEA 7,Ricardo Flores Magã3n,10364,1679
-LÍNEA 11,Politã©cnico,10331,1680
-LINÉA 3,Bosque De Aragã3n,10298,1681
-LINEA 7,Atlalilco,10248,1682
-LIENA 5,Iztacalco,10184,1683
-LÍNEA 11,Fray Servando,10170,1684
-LINEA  6,Colegio Militar,10140,1685
-LINEA B2,Colegio Militar,9968,1686
-LINÉA 3,Valle Gã3mez,9743,1687
-LIENA 5,Olã­mpica,9738,1688
-LINEA B2,Parque De Los Venados,9726,1689
-LINEA 7,Agrã­cola Oriental,9714,1690
-LINÉA 3,Oceanã­a,9667,1691
-LNIEA 4,Villa De Cortã©s,9635,1692
-LINENA 1,Aculco,9583,1693
-LINÉA 3,Zapata,9566,1694
-LIENA 5,Lagunilla,9563,1695
-LINEA 7,Tlaltenco,9535,1696
-LINEA B2,Villa De Cortã©s,9444,1697
-LINENA 1,Parque De Los Venados,9444,1698
-LIENA 5,Valle Gã3mez,9431,1699
-LNIEA 4,Uam-azcapotzalco,9419,1700
-LINÉA 3,Talismã¡n,9412,1701
-LIENA 5,Santa Anita,9356,1702
-LIENA 5,Tezozã3moc,9344,1703
-LÍNEA 11,Eje Central,9217,1704
-LÍNEA 11,Mexicaltzingo,9165,1705
-LÍNEA 11,Aragã3n,9153,1706
-LÍNEA 11,Misterios,9115,1707
-LINÉA 3,Hospital 20 De Noviembre,9107,1708
-LINEA  6,Talismã¡n,9072,1709
-LNIEA 4,Bosque De Aragã3n,9036,1710
-LNIEA 4,Tezozã3moc,9032,1711
-LÍNEA 11,Olivos,8991,1712
-LNIEA 4,Tepalcates,8952,1713
-LINÉA 3,Misterios,8877,1714
-LÍNEA 11,San Pedro De Los Pinos,8862,1715
-LINEA 7,Fray Servando,8819,1716
-LINÉA 3,Lindavista,8749,1717
-LINENA 1,Lã¡zaro Cã¡rdenas,8603,1718
-LINENA 1,Aragã3n,8549,1719
-LNIEA 4,Camarones,8249,1720
-LNIEA 4,Juã¡rez,8246,1721
-LINEA  6,Vallejo,8079,1722
-LINEA  6,Bosque De Aragã3n,8003,1723
-LINEA 7,Olivos,7922,1724
-LINEA  6,Lomas Estrella,7873,1725
-LINENA 1,Aquiles Serdã¡n,7838,1726
-LNIEA 4,Bondojito,7832,1727
-LINEA  6,Popotla,7816,1728
-LINEA 7,Tepalcates,7779,1729
-LINEA 7,Talismã¡n,7735,1730
-LINENA 1,Uam-azcapotzalco,7671,1731
-LNIEA 4,Eduardo Molina,7668,1732
-LÍNEA 11,Valle Gã3mez,7622,1733
-LÍNEA 11,Morelos,7593,1734
-LNIEA 4,San Andrã©s Tomatlã¡n,7555,1735
-LÍNEA 11,Obrera,7457,1736
-LIENA 5,Eduardo Molina,7435,1737
-LINEA 7,Uam-azcapotzalco,7328,1738
-LINEA  6,Balbuena,7248,1739
-LINEA B2,Ricardo Flores Magã3n,7186,1740
-LINEA 7,Tezozã3moc,7114,1741
-LNIEA 4,Apatlaco,7111,1742
-LINEA  6,Aquiles Serdã¡n,7034,1743
-LINEA 7,Bondojito,6979,1744
-LINEA 7,Consulado,6966,1745
-LINEA B2,Canal Del Norte,6940,1746
-L4,Jamaica,6935,1747
-LIENA 5,Culhuacã¡n,6932,1748
-LIENA 5,Panteones,6853,1749
-LINENA 1,Tepalcates,6823,1750
-LINEA  6,Lindavista,6755,1751
-LINEA  6,La Viga,6736,1752
-LINEA 7,Canal Del Norte,6653,1753
-LINÉA 3,Aculco,6651,1754
-LINEA 7,Norte 45,6611,1755
-LNIEA 4,Zapotitlã¡n,6585,1756
-LNIEA 4,Candelaria,6564,1757
-LINEA B2,Constituyentes,6413,1758
-LINÉA 3,San Andrã©s Tomatlã¡n,6398,1759
-LIENA 5,Refinerã­a,6337,1760
-LINÉA 3,Parque De Los Venados,6331,1761
-LINEA B2,La Viga,6318,1762
-LINENA 1,Eduardo Molina,6299,1763
-LINENA 1,Tezozã3moc,6223,1764
-LINENA 1,Balbuena,6216,1765
-LINEA B2,Consulado,6209,1766
-LIENA 5,Niã±os Hã©roes,6197,1767
-LNIEA 4,Vallejo,6180,1768
-LÍNEA 11,Candelaria,6136,1769
-LNIEA 4,Eje Central,5860,1770
-LINÉA 3,Hangares,5849,1771
-LINÉA 3,Camarones,5734,1772
-LNIEA 4,Canal Del Norte,5719,1773
-LINEA B2,Hospital 20 De Noviembre,5714,1774
-LINEA  6,Juanacatlã¡n,5701,1775
-LÍNEA 11,Calle 11,5670,1776
-LNIEA 4,Talismã¡n,5657,1777
-LINENA 1,Canal Del Norte,5607,1778
-LNIEA 4,Hidalgo,5603,1779
-LIENA 5,Mixiuhca,5480,1780
-LIENA 5,La Villa/basã­lica,5378,1781
-LINEA 7,Valle Gã3mez,5346,1782
-LINENA 1,Santa Anita,5319,1783
-LINEA  6,Agrã­cola Oriental,5288,1784
-LIENA 5,Lomas Estrella,5139,1785
-LINENA 1,Consulado,4874,1786
-LINÉA 3,Popotla,4811,1787
-LINENA 1,Ricardo Flores Magã3n,4753,1788
-LINEA B2,Valle Gã3mez,4730,1789
-LINEA 7,Juanacatlã¡n,4691,1790
-LÍNEA 11,Tlaltenco,4662,1791
-LNIEA 4,Valle Gã3mez,4550,1792
-LIENA 5,Vallejo,4546,1793
-LINENA 1,Hangares,4339,1794
-LÍNEA 11,Ciudad Deportiva,4314,1795
-LINENA 1,Eje Central,4276,1796
-LINENA 1,San Cosme,4269,1797
-LIENA 5,La Viga,4252,1798
-LIENA 5,Talismã¡n,4217,1799
-LINEA B2,Norte 45,4214,1800
-LINEA B2,Uam-azcapotzalco,4142,1801
-LINÉA 3,Juanacatlã¡n,4119,1802
-LÍNEA 11,Instituto Del Petrã3leo,4011,1803
-LNIEA 4,San Pedro De Los Pinos,3652,1804
-LINENA 1,Talismã¡n,3616,1805
-LÍNEA 11,Santa Anita,3570,1806
-LNIEA 4,Aragã3n,3558,1807
-LIENA 5,Peã±ã3n Viejo,3219,1808
-LINEA 7,Hangares,3105,1809
-LÍNEA 11,Eduardo Molina,2992,1810
-LINEA B2,Aculco,2947,1811
-LINÉA 3,Tlaltenco,2619,1812
-LINENA 1,Instituto Del Petrã3leo,2477,1813
-LNIEA 4,Santa Anita,2067,1814
-LINEA B2,Velã3dromo,1892,1815
-LINEA 7,Patriotismo,36,1816
+L6,Norte 45,31743799,183
+LÍNEA 1,Observatorio,31367513,184
+LÍNEA B,Ciudad Azteca,31195404,185
+L7,Tacubaya,30976243,186
+L8,Santa Anita,30614596,187
+LINEA 12,San Andrés Tomatlán,30260725,188
+LINEA 12,Lomas Estrella,30040821,189
+LB,Bosque De Aragón,29934452,190
+L4,Bondojito,29880451,191
+LB,Ricardo Flores Magón,29474257,192
+LÍNEA A,La Paz,29318394,193
+LÍNEA 2,Zócalo/tenochtitlan,27860936,194
+L5,Instituto Del Petróleo,27547722,195
+LÍNEA 9,Chilpancingo,27439419,196
+LB,Guerrero,27156443,197
+L6,Tezozómoc,26708262,198
+LÍNEA A,Pantitlán,26454271,199
+L4,Talismán,25515283,200
+LÍNEA 1,Chapultepec,24729599,201
+LÍNEA A,Santa Marta,24623311,202
+LÍNEA 9,Puebla,23964442,203
+LB,Morelos,23955119,204
+L5,Consulado,23671745,205
+L5,Hangares,23393337,206
+LÍNEA 1,Insurgentes,22990845,207
+LÍNEA 3,Zapata,21006739,208
+LÍNEA 2,Tacuba,20893697,209
+L5,Valle Gómez,20658167,210
+L4,Consulado,20306636,211
+LÍNEA B,Múzquiz,20298094,212
+LÍNEA 7,Barranca Del Muerto,20255787,213
+LÍNEA 3,Miguel Ángel De Quevedo,20036157,214
+L8,Chabacano,19213268,215
+LÍNEA 3,La Raza,19209877,216
+LÍNEA 3,Copilco,18781899,217
+LÍNEA 2,Normal,18523654,218
+LÍNEA 8,San Juan De Letrán,18478454,219
+LÍNEA 3,Deportivo 18 De Marzo,18329674,220
+LÍNEA 2,Hidalgo,18151422,221
+LÍNEA 1,Merced,18043540,222
+LÍNEA 7,El Rosario,17936511,223
+LÍNEA 5,Politécnico,17748221,224
+LÍNEA 7,Auditorio,17657729,225
+LÍNEA 8,Uam-i,17105191,226
+L6,Instituto Del Petróleo,16744955,227
+LÍNEA 6,Martín Carrera,16609597,228
+LÍNEA 8,Coyuya,16535077,229
+LÍNEA 7,Mixcoac,16384944,230
+LÍNEA 7,Polanco,16353311,231
+LÍNEA 2,Pino Suárez,16235687,232
+LÍNEA 1,Tacubaya,16127650,233
+LÍNEA A,Tepalcates,15803539,234
+LÍNEA B,Impulsora,15751084,235
+LÍNEA B,Tepito,15345807,236
+LÍNEA B,Ecatepec,15255043,237
+L1,Gómez Farias,15135173,238
+LÍNEA 2,Revolución,15093180,239
+LÍNEA 1,Zaragoza,15091652,240
+LÍNEA 1,Balderas,15054119,241
+LÍNEA 2,Chabacano,14883330,242
+LÍNEA 3,Etiopía/plaza De La Transparencia,14671778,243
+LÍNEA 2,Bellas Artes,14643908,244
+LÍNEA 3,Coyoacán,14494835,245
+LÍNEA B,Lagunilla,14468591,246
+LÍNEA 9,Mixiuhca,14339544,247
+LÍNEA 1,Sevilla,14286562,248
+LÍNEA 8,Escuadrón 201,14233626,249
+LÍNEA 1,Pantitlán,13840369,250
+LÍNEA A,Los Reyes,13595265,251
+LÍNEA 7,San Joaquín,13546738,252
+LÍNEA 2,Allende,13525610,253
+LÍNEA 5,Autobuses Del Norte,13504419,254
+LÍNEA 8,Bellas Artes,13443570,255
+L4,Santa Anita,13298844,256
+LÍNEA B,Nezahualcóyotl,13261181,257
+LÍNEA 1,Pino Suárez,12912175,258
+LÍNEA 4,Martín Carrera,12796289,259
+LÍNEA 8,Salto Del Agua,12588106,260
+LÍNEA 5,Terminal Aérea,12476664,261
+LÍNEA B,Río De Los Remedios,12444666,262
+LÍNEA 6,Ferrería/arena Ciudad De México,12426121,263
+LÍNEA B,Plaza Aragón,12405152,264
+LÍNEA B,San Lázaro,12338777,265
+LÍNEA 8,Atlalilco,12259703,266
+LÍNEA 8,Iztacalco,12208398,267
+LÍNEA 1,Gómez Farías,12114946,268
+LÍNEA A,Guelatao,12005399,269
+LÍNEA 2,San Cosme,11920972,270
+LÍNEA 8,Garibaldi/lagunilla,11877436,271
+LÍNEA 2,Portales,11757961,272
+LÍNEA 3,Viveros/derechos Humanos,11750622,273
+LÍNEA 3,Niños Héroes,11588587,274
+LÍNEA 2,San Antonio Abad,11565633,275
+LÍNEA A,Acatitla,11423088,276
+LÍNEA 9,Patriotismo,11416437,277
+LÍNEA B,Olímpica,11341671,278
+LÍNEA 2,General Anaya,11168444,279
+LÍNEA 2,Ermita,11052351,280
+LÍNEA 3,Tlatelolco,10989145,281
+LÍNEA 3,Hospital General,10986207,282
+LÍNEA 3,Balderas,10913538,283
+LÍNEA 2,Xola,10782622,284
+LÍNEA 3,Centro Médico,10698569,285
+LÍNEA 1,Candelaria,10371147,286
+LÍNEA 2,Nativitas,10369642,287
+L6,Deportivo 18 De Marzo,10254291,288
+LÍNEA 2,Cuitláhuac,10119487,289
+LÍNEA 6,El Rosario,9905412,290
+LÍNEA B,Deportivo Oceanía,9708821,291
+LÍNEA 9,Centro Médico,9506020,292
+LÍNEA A,Peñón Viejo,9467384,293
+LÍNEA 2,Viaducto,9371520,294
+LÍNEA 1,Cuauhtémoc,9362440,295
+LÍNEA 3,Juárez,9352425,296
+LINEA 12,Tlaltenco,9307739,297
+LÍNEA A,Canal De San Juan,9283759,298
+LÍNEA 3,Potrero,9204022,299
+LÍNEA B,Villa De Aragón,9127278,300
+LÍNEA 8,Obrera,9112125,301
+LÍNEA 3,División Del Norte,9111433,302
+LÍNEA 6,Lindavista,9097446,303
+LÍNEA 2,Villa De Cortés,9095125,304
+LÍNEA 8,Apatlaco,8723701,305
+LÍNEA 3,Eugenia,8608099,306
+LÍNEA 7,Refinería,8600871,307
+LÍNEA 3,Hidalgo,8553666,308
+LÍNEA 1,San Lázaro,8531415,309
+LÍNEA 7,Camarones,8454287,310
+LÍNEA 9,Lázaro Cárdenas,8425060,311
+LÍNEA 8,Doctores,8406664,312
+LÍNEA 2,Colegio Militar,8061111,313
+LÍNEA B,Romero Rubio,8035797,314
+LÍNEA 1,Moctezuma,7856197,315
+LÍNEA 1,Isabel La Católica,7805845,316
+LÍNEA 9,Jamaica,7789605,317
+LÍNEA A,Agrícola Oriental,7778042,318
+LÍNEA 8,Cerro De La Estrella,7693446,319
+LÍNEA 1,Boulevard Puerto Aéreo,7669259,320
+LÍNEA 8,Iztapalapa,7485025,321
+LÍNEA 6,La Villa/basílica,7349258,322
+LÍNEA 2,Panteones,7294496,323
+LÍNEA 9,Chabacano,7155963,324
+LÍNEA 1,Salto Del Agua,7090269,325
+LÍNEA 4,Candelaria,6931744,326
+LÍNEA 7,San Pedro De Los Pinos,6882177,327
+LÍNEA 5,La Raza,6863768,328
+LÍNEA 7,San Antonio,6757946,329
+LÍNEA 7,Aquiles Serdán,6755647,330
+LÍNEA 8,Aculco,6600591,331
+LÍNEA B,Oceanía,6349064,332
+LÍNEA 3,Guerrero,6273175,333
+LÍNEA 4,Fray Servando,6052556,334
+LÍNEA 5,Oceanía,5841634,335
+LÍNEA 7,Tacuba,5693361,336
+LÍNEA 9,Velódromo,5433594,337
+LÍNEA 6,Vallejo,5397259,338
+LÍNEA 2,Popotla,5152228,339
+LÍNEA 4,Canal Del Norte,5082937,340
+LÍNEA 1,Juanacatlán,5046355,341
+LÍNEA 5,Misterios,5037206,342
+LÍNEA 4,Morelos,4865344,343
+LÍNEA 9,Ciudad Deportiva,4800104,344
+LÍNEA 5,Aragón,4700438,345
+LÍNEA 6,Uam-azcapotzalco,4689946,346
+LÍNEA 4,Jamaica,4652906,347
+LÍNEA 8,La Viga,4634963,348
+LÍNEA B,Garibaldi/lagunilla,4481409,349
+LÍNEA 6,Norte 45,4473766,350
+LÍNEA 12,Atlalilco,4303513,351
+LÍNEA B,Guerrero,4122156,352
+LÍNEA B,Ricardo Flores Magón,4117727,353
+LÍNEA 5,Eduardo Molina,4069841,354
+LÍNEA 12,Insurgentes Sur,3983274,355
+LÍNEA 1,Balbuena,3979155,356
+LÍNEA 7,Constituyentes,3960105,357
+LÍNEA 4,Bondojito,3700673,358
+LÍNEA 7,Tacubaya,3516529,359
+LÍNEA 6,Tezozómoc,3482263,360
+LÍNEA B,Morelos,3456372,361
+LÍNEA 5,Instituto Del Petróleo,3443549,362
+LÍNEA 5,Consulado,3391434,363
+LÍNEA B,Bosque De Aragón,3319505,364
+LÍNEA 8,Santa Anita,3318524,365
+LÍNEA 5,Hangares,3256421,366
+LÍNEA 12,Tláhuac,3197418,367
+LÍNEA 8,Chabacano,2806692,368
+LÍNEA 5,Valle Gómez,2748591,369
+LÍNEA 4,Talismán,2597047,370
+LÍNEA 4,Consulado,2303358,371
+LÍNEA 12,Mexicaltzingo,2263697,372
+LÍNEA 12,Zapata,1924774,373
+LÍNEA 12,Periférico Oriente,1889058,374
+LÍNEA 6,Instituto Del Petróleo,1776310,375
+LÍNEA 12,Mixcoac,1739104,376
+LÍNEA 12,Tezonco,1567695,377
+LÍNEA 12,Hospital 20 De Noviembre,1550206,378
+LÍNEA 12,Nopalera,1539894,379
+LÍNEA 12,Eje Central,1502345,380
+LÍNEA 12,Ermita,1449141,381
+LÍNEA 12,Parque De Los Venados,1329333,382
+LÍNEA 4,Santa Anita,1276073,383
+LÍNEA 12,Culhuacán,1161537,384
+LÍNEA 12,Olivos,1091609,385
+LÍNEA 12,Calle 11,990887,386
+LÍNEA 6,Deportivo 18 De Marzo,949025,387
+LÍNEA 12,Zapotitlán,938752,388
+L-8,Constitución De 1917,876663,389
+LIENA 5,Pantitlán,639889,390
+L-B,Ciudad Azteca,633507,391
+LÍNEA 12,San Andrés Tomatlán,625242,392
+L-A,Pantitlán,612396,393
+L-2,Tasqueña,602089,394
+LINÉA 3,Pantitlán,555832,395
+LNIEA 4,Pantitlán,540551,396
+LÍNEA 12,Lomas Estrella,525533,397
+L-7,Barranca Del Muerto,499870,398
+L-5,Pantitlán,498660,399
+L-1,Pantitlán,482521,400
+L-3,Universidad,480928,401
+L-1,Zaragoza,467505,402
+LINEA B2,Pantitlán,467204,403
+LÍNEA 11,Pantitlán,464897,404
+L-9,Pantitlán,456696,405
+L-1,Insurgentes,451148,406
+L-9,Chilpancingo,434180,407
+L-2,Cuatro Caminos,433064,408
+L-1,Observatorio,420898,409
+L-3,Deportivo 18 De Marzo,407597,410
+L-B,Múzquiz,392104,411
+L-3,Copilco,379600,412
+L7,Indios Verdes,374718,413
+LINEA  6,Pantitlán,361921,414
+L-3,Miguel Ángel De Quevedo,360434,415
+L-9,Tacubaya,358186,416
+L-1,Merced,357277,417
+L7,Pantitlán,354680,418
+L-3,Etiopía/plaza De La Transparencia,353247,419
+L-A,La Paz,347408,420
+L-7,El Rosario,345364,421
+L-1,Chapultepec,344113,422
+L-2,Revolución,341558,423
+L-3,Indios Verdes,329433,424
+LINEA  6,Cuatro Caminos,328703,425
+L-3,Zapata,327909,426
+LINENA 1,Universidad,326467,427
+L-B,Buenavista,322949,428
+LINÉA 3,Observatorio,321516,429
+L-2,Normal,315717,430
+L-1,Gómez Farías,311637,431
+L-6,Martín Carrera,306314,432
+L-2,Allende,304104,433
+L-2,Bellas Artes,302059,434
+L-3,La Raza,300424,435
+LÍNEA 12,Tlaltenco,298779,436
+LIENA 5,Tasqueña,287972,437
+L-2,Hidalgo,283985,438
+L-2,Chabacano,275514,439
+L-8,Garibaldi/lagunilla,274055,440
+L-5,Politécnico,272814,441
+L-3,Tlatelolco,271936,442
+L-7,Polanco,270771,443
+LINEA  6,Observatorio,268530,444
+L-1,San Lázaro,264352,445
+L-2,Tacuba,260828,446
+L-8,Escuadrón 201,260650,447
+L-2,Zócalo/tenochtitlan,256432,448
+L-1,Pino Suárez,248791,449
+L-2,General Anaya,247012,450
+L-1,Tacubaya,246882,451
+LIENA 5,Buenavista,243818,452
+LINENA 1,Indios Verdes,243344,453
+L-9,Puebla,235896,454
+L-3,Viveros/derechos Humanos,233393,455
+LINEA B2,Normal,231959,456
+L-7,Auditorio,230805,457
+L-8,Bellas Artes,228216,458
+LNIEA 4,Buenavista,226358,459
+L-7,Mixcoac,222671,460
+L-1,Boulevard Puerto Aéreo,218422,461
+LINÉA 3,Indios Verdes,216527,462
+L-B,Nezahualcóyotl,214901,463
+LINEA  6,Tacubaya,213678,464
+LÍNEA 11,Cuatro Caminos,212773,465
+L-B,Río De Los Remedios,208847,466
+L-7,San Joaquín,206514,467
+L7,Cuatro Caminos,203715,468
+LÍNEA 11,Universidad,202923,469
+L-1,Moctezuma,200413,470
+LIENA 5,Constitución De 1917,198290,471
+LÍNEA 11,Constitución De 1917,198111,472
+L-3,Coyoacán,195786,473
+L-8,Uam-i,190065,474
+L-1,Cuauhtémoc,187799,475
+L-3,Juárez,185896,476
+L-B,Lagunilla,185276,477
+LINENA 1,Chilpancingo,184984,478
+L-B,Ecatepec,183687,479
+L-1,Balderas,182397,480
+L-9,Patriotismo,180755,481
+L-B,Tepito,179287,482
+L-4,Martín Carrera,177457,483
+L-8,Iztacalco,175678,484
+L-3,Centro Médico,175182,485
+LNIEA 4,Indios Verdes,173620,486
+L-2,Cuitláhuac,170970,487
+L-6,La Villa/basílica,169554,488
+LIENA 5,Cuatro Caminos,169140,489
+LINEA  6,Ciudad Azteca,167883,490
+L-6,Ferrería/arena Ciudad De México,165721,491
+LINÉA 3,Chapultepec,165020,492
+L-A,Guelatao,161010,493
+LNIEA 4,Revolución,160776,494
+L-B,Deportivo Oceanía,160048,495
+LIENA 5,Polanco,159988,496
+LINEA  6,Constitución De 1917,159915,497
+L7,Zócalo/tenochtitlan,159295,498
+L-3,Hidalgo,156642,499
+L-2,Ermita,154741,500
+L-1,Candelaria,153941,501
+L7,Chabacano,150976,502
+L-7,San Antonio,150104,503
+L-6,Lindavista,149482,504
+L-5,Terminal Aérea,149444,505
+L-3,Hospital General,149374,506
+L-1,Balbuena,149052,507
+LINEA  6,Universidad,148423,508
+L-2,Villa De Cortés,148143,509
+L-1,Isabel La Católica,148106,510
+LINEA  6,Indios Verdes,145842,511
+L-5,Autobuses Del Norte,145768,512
+LINEA  6,Merced,144553,513
+LNIEA 4,Pino Suárez,144448,514
+LINÉA 3,Normal,144334,515
+LINENA 1,Pantitlán,143826,516
+L-8,San Juan De Letrán,143009,517
+L-3,Guerrero,142972,518
+LINEA  6,Buenavista,142859,519
+L-2,Colegio Militar,141900,520
+LIENA 5,Tacubaya,141494,521
+L-B,Villa De Aragón,141386,522
+L-2,Viaducto,138937,523
+LÍNEA 11,Gómez Farías,137186,524
+L-3,Eugenia,134549,525
+L-B,Plaza Aragón,133237,526
+LNIEA 4,Ciudad Azteca,132970,527
+L7,Observatorio,132602,528
+L-9,Mixiuhca,132175,529
+LÍNEA 11,Tacubaya,131854,530
+LIENA 5,Ciudad Azteca,131732,531
+L-2,Xola,131630,532
+LINEA B2,Constitución De 1917,131220,533
+L7,Copilco,130812,534
+LINÉA 3,Buenavista,129821,535
+L-7,Aquiles Serdán,129357,536
+LINÉA 3,Bellas Artes,129309,537
+L7,División Del Norte,128993,538
+LINÉA 3,Barranca Del Muerto,128960,539
+L-8,Cerro De La Estrella,128870,540
+LIENA 5,Observatorio,128811,541
+LÍNEA 11,La Raza,128586,542
+LÍNEA 11,El Rosario,127700,543
+L-A,Tepalcates,127653,544
+LINEA B2,Tacubaya,127564,545
+L-2,San Antonio Abad,127338,546
+L-3,División Del Norte,126424,547
+LINEA  6,Chilpancingo,125976,548
+L-2,Portales,125385,549
+LINEA B2,San Lázaro,124755,550
+L-2,San Cosme,123789,551
+L-A,Santa Marta,122200,552
+LÍNEA 11,Tacuba,121526,553
+L-B,San Lázaro,121132,554
+L7,Los Reyes,120962,555
+LINEA  6,Martín Carrera,120815,556
+LÍNEA 11,La Paz,120657,557
+L-A,Peñón Viejo,119925,558
+LIENA 5,Nezahualcóyotl,119839,559
+L7,Zaragoza,119379,560
+LÍNEA 11,Zócalo/tenochtitlan,119119,561
+LINÉA 3,La Paz,117595,562
+LINEA B2,Múzquiz,117515,563
+L-2,Pino Suárez,117507,564
+LINEA  6,Zaragoza,117077,565
+LINEA B2,Ecatepec,116914,566
+LINENA 1,Tasqueña,116825,567
+LINENA 1,Uam-i,116493,568
+LINENA 1,Cuatro Caminos,116038,569
+L7,Buenavista,115742,570
+LINENA 1,Copilco,114252,571
+LINEA B2,Xola,113699,572
+L7,Merced,113018,573
+LINEA  6,Tacuba,112972,574
+LINENA 1,Constitución De 1917,111901,575
+LIENA 5,El Rosario,110154,576
+L-8,Apatlaco,109518,577
+L-3,Potrero,109486,578
+LINÉA 3,San Lázaro,109486,579
+LINEA  6,Puebla,109474,580
+LNIEA 4,Universidad,108913,581
+LINENA 1,Zaragoza,108572,582
+LÍNEA 11,Chapultepec,108465,583
+LINÉA 3,Villa De Cortés,108010,584
+LINENA 1,Normal,107612,585
+LNIEA 4,Constitución De 1917,107488,586
+LIENA 5,Normal,107013,587
+LINEA B2,Chilpancingo,106960,588
+L-3,Niños Héroes,106881,589
+LIENA 5,Insurgentes,106805,590
+LINEA B2,Chapultepec,105615,591
+L-8,Coyuya,104718,592
+L7,Uam-i,104405,593
+LINENA 1,Tacuba,104214,594
+LINEA  6,Tasqueña,102687,595
+LIENA 5,Escuadrón 201,102185,596
+LINENA 1,Revolución,101622,597
+LNIEA 4,Balderas,101485,598
+L7,Ferrería/arena Ciudad De México,101335,599
+LINÉA 3,Universidad,100225,600
+LINENA 1,Chapultepec,98901,601
+LNIEA 4,Zaragoza,98898,602
+L7,Pino Suárez,98732,603
+LÍNEA 11,Chilpancingo,98132,604
+L-7,Constituyentes,97462,605
+LNIEA 4,Boulevard Puerto Aéreo,96741,606
+LINENA 1,Zapata,96542,607
+LÍNEA 11,Buenavista,96481,608
+LNIEA 4,Allende,96338,609
+LINÉA 3,Tasqueña,96232,610
+LIENA 5,La Raza,95353,611
+LINEA  6,Tláhuac,95188,612
+LNIEA 4,Chilpancingo,94998,613
+L-1,Salto Del Agua,94717,614
+L-2,Popotla,93908,615
+LÍNEA 11,Mixcoac,93681,616
+L7,Hidalgo,92632,617
+LINÉA 3,Juárez,92111,618
+LÍNEA 11,Xola,91804,619
+LINEA B2,San Joaquín,90681,620
+LÍNEA 11,Martín Carrera,90293,621
+LINÉA 3,Tacubaya,89868,622
+LÍNEA 11,Polanco,89687,623
+L-B,Olímpica,89363,624
+LINEA  6,La Villa/basílica,88909,625
+L-7,Camarones,88369,626
+LIENA 5,Copilco,88337,627
+L-8,Atlalilco,88098,628
+LNIEA 4,La Paz,87908,629
+LINENA 1,Observatorio,87863,630
+LNIEA 4,Chabacano,87196,631
+L7,Moctezuma,87134,632
+L-8,Obrera,87128,633
+LINEA  6,Copilco,87082,634
+LIENA 5,Plaza Aragón,85743,635
+LINENA 1,Deportivo 18 De Marzo,85362,636
+LINEA B2,Cuitláhuac,85349,637
+LNIEA 4,Copilco,85348,638
+LIENA 5,Balderas,85341,639
+LNIEA 4,San Lázaro,85256,640
+LNIEA 4,Ecatepec,85114,641
+L-2,Panteones,84962,642
+LNIEA 4,Impulsora,83252,643
+L-1,Juanacatlán,83230,644
+LIENA 5,Deportivo Oceanía,82770,645
+LNIEA 4,Atlalilco,82711,646
+LÍNEA 11,Hidalgo,82548,647
+LINENA 1,Lindavista,82527,648
+LINENA 1,San Antonio Abad,82448,649
+LIENA 5,General Anaya,81717,650
+LIENA 5,Deportivo 18 De Marzo,81698,651
+LINEA B2,Balderas,81038,652
+LINÉA 3,Deportivo 18 De Marzo,80869,653
+LINENA 1,Niños Héroes,80827,654
+LINEA  6,Etiopía/plaza De La Transparencia,80587,655
+L-B,Impulsora,80569,656
+LINEA B2,Salto Del Agua,80529,657
+LIENA 5,Martín Carrera,80446,658
+LINEA B2,Deportivo 18 De Marzo,80108,659
+L-A,Agrícola Oriental,80072,660
+L-2,Nativitas,79863,661
+LIENA 5,Mixcoac,79700,662
+LÍNEA 11,Moctezuma,79274,663
+L7,Martín Carrera,78990,664
+LNIEA 4,Normal,78859,665
+L-A,Los Reyes,78259,666
+L-8,Salto Del Agua,77895,667
+L-9,Jamaica,77893,668
+L-9,Lázaro Cárdenas,77281,669
+LINEA  6,Polanco,77100,670
+LINENA 1,Hospital General,76860,671
+LINEA  6,Cuitláhuac,76280,672
+LINEA B2,Ermita,76234,673
+L-1,Sevilla,75985,674
+LINEA B2,Zapata,75904,675
+L7,Gómez Farías,75833,676
+LINENA 1,Gómez Farías,75641,677
+LINENA 1,Buenavista,75151,678
+LINÉA 3,La Raza,74887,679
+L-5,Oceanía,74617,680
+LÍNEA 11,Viaducto,74073,681
+LNIEA 4,Tacubaya,74057,682
+L7,General Anaya,74008,683
+L-A,Acatitla,73811,684
+LÍNEA 11,Chabacano,73482,685
+LÍNEA 11,Observatorio,73075,686
+L7,Lagunilla,72883,687
+LINENA 1,Hidalgo,72608,688
+L-9,Ciudad Deportiva,72391,689
+LNIEA 4,Miguel Ángel De Quevedo,71954,690
+L-8,Doctores,71500,691
+LNIEA 4,Garibaldi/lagunilla,71497,692
+LINENA 1,San Lázaro,71082,693
+LÍNEA 11,Velódromo,70689,694
+L-8,Aculco,70614,695
+LNIEA 4,Múzquiz,70158,696
+LINENA 1,San Juan De Letrán,69969,697
+LINEA  6,Escuadrón 201,69744,698
+L-4,Morelos,69717,699
+L-9,Centro Médico,69570,700
+L-4,Canal Del Norte,69435,701
+L-5,Eduardo Molina,69405,702
+L-6,El Rosario,69309,703
+LINEA B2,Periférico Oriente,68671,704
+LINÉA 3,El Rosario,67787,705
+L-5,Misterios,67737,706
+LINEA B2,Garibaldi/lagunilla,67726,707
+LNIEA 4,Autobuses Del Norte,67481,708
+LÍNEA 11,San Cosme,67410,709
+LINEA B2,Zócalo/tenochtitlan,67398,710
+LINÉA 3,Merced,67253,711
+LINEA  6,Politécnico,66745,712
+LNIEA 4,General Anaya,66690,713
+LÍNEA 11,San Juan De Letrán,66626,714
+LINENA 1,Merced,65963,715
+LINENA 1,Bellas Artes,65929,716
+LINENA 1,Martín Carrera,65902,717
+LNIEA 4,Merced,65709,718
+LÍNEA 11,Copilco,65492,719
+LINEA  6,La Paz,65064,720
+LINENA 1,Etiopía/plaza De La Transparencia,64702,721
+LINEA  6,Terminal Aérea,64656,722
+LINENA 1,Salto Del Agua,64366,723
+L-4,Talismán,64165,724
+LNIEA 4,Chapultepec,63747,725
+LINENA 1,Miguel Ángel De Quevedo,63693,726
+LINENA 1,Juárez,63649,727
+L7,Insurgentes,62837,728
+LINENA 1,Tacubaya,62386,729
+LINEA B2,Auditorio,62377,730
+LIENA 5,Ferrería/arena Ciudad De México,61934,731
+LÍNEA 11,San Antonio Abad,61899,732
+LNIEA 4,Uam-i,61576,733
+L7,Oceanía,60934,734
+L7,Deportivo 18 De Marzo,60505,735
+L-B,Romero Rubio,60502,736
+L7,Boulevard Puerto Aéreo,60349,737
+L7,San Lázaro,60041,738
+L-5,La Raza,59891,739
+L-B,Bosque De Aragón,59743,740
+LIENA 5,San Lázaro,59685,741
+LNIEA 4,Hospital General,59529,742
+LINENA 1,Impulsora,59203,743
+LIENA 5,Camarones,58725,744
+LINEA  6,San Cosme,58522,745
+LÍNEA 11,Nopalera,58459,746
+LINEA B2,Plaza Aragón,58425,747
+LINEA  6,Bellas Artes,58277,748
+LNIEA 4,Tacuba,58255,749
+LINENA 1,Múzquiz,58255,750
+LINEA B2,Nezahualcóyotl,58093,751
+LÍNEA 11,Isabel La Católica,58080,752
+LIENA 5,Coyuya,57993,753
+LÍNEA 11,Viveros/derechos Humanos,57859,754
+LIENA 5,Tlatelolco,57687,755
+LIENA 5,Acatitla,57522,756
+LINÉA 3,Mixcoac,57374,757
+LINEA  6,General Anaya,57159,758
+L7,Centro Médico,57093,759
+LNIEA 4,Ferrería/arena Ciudad De México,57043,760
+LINEA B2,Impulsora,56926,761
+LINÉA 3,Balderas,56881,762
+L7,Balderas,56784,763
+L-3,Balderas,56666,764
+L7,Politécnico,56645,765
+L-B,Oceanía,56319,766
+LINEA  6,Viveros/derechos Humanos,56131,767
+LNIEA 4,Moctezuma,56068,768
+L7,Chapultepec,56064,769
+LNIEA 4,Ermita,55727,770
+L-A,Canal De San Juan,55543,771
+L-4,Candelaria,55350,772
+LINÉA 3,San Antonio,55335,773
+LÍNEA 11,Balderas,54915,774
+LÍNEA 11,Pino Suárez,54896,775
+LNIEA 4,Xola,54860,776
+LINÉA 3,Obrera,54811,777
+LNIEA 4,Salto Del Agua,54722,778
+LÍNEA 11,Barranca Del Muerto,54538,779
+L-6,Uam-azcapotzalco,54239,780
+LIENA 5,Xola,53753,781
+LNIEA 4,Tasqueña,53641,782
+LIENA 5,Atlalilco,53635,783
+LNIEA 4,Observatorio,53571,784
+LINENA 1,Oceanía,53556,785
+LINENA 1,Terminal Aérea,53464,786
+LINEA B2,Observatorio,53411,787
+L7,Chilpancingo,53125,788
+LINENA 1,Allende,53084,789
+LINENA 1,Puebla,53040,790
+LIENA 5,Merced,52915,791
+LNIEA 4,Coyoacán,52672,792
+L7,Constitución De 1917,52484,793
+LINENA 1,Eugenia,52200,794
+L7,Niños Héroes,52130,795
+LIENA 5,Ermita,51833,796
+LINENA 1,Autobuses Del Norte,51796,797
+LINÉA 3,Tacuba,51791,798
+LINENA 1,Ciudad Azteca,51730,799
+LINENA 1,Coyoacán,51257,800
+LINEA  6,Río De Los Remedios,50968,801
+LINÉA 3,División Del Norte,50291,802
+LNIEA 4,Zapata,50216,803
+L-7,Refinería,49954,804
+LINEA  6,Eje Central,49936,805
+LINEA B2,Viveros/derechos Humanos,49802,806
+LÍNEA 11,Merced,49792,807
+L-4,Bondojito,49713,808
+LIENA 5,Zapata,49632,809
+L7,San Juan De Letrán,49424,810
+LINEA  6,Moctezuma,49237,811
+L7,Salto Del Agua,49173,812
+L-4,Jamaica,49028,813
+LINEA B2,Panteones,48775,814
+LINEA B2,Boulevard Puerto Aéreo,48565,815
+LINÉA 3,Viveros/derechos Humanos,48539,816
+LINEA B2,Terminal Aérea,48525,817
+L7,Tláhuac,48378,818
+LINÉA 3,Plaza Aragón,48367,819
+L-5,Aragón,48034,820
+LINEA B2,Nopalera,47960,821
+LNIEA 4,Isabel La Católica,47824,822
+LNIEA 4,Coyuya,47383,823
+LINÉA 3,Ecatepec,47294,824
+LÍNEA 11,Panteones,46823,825
+L7,Coyoacán,46756,826
+LINEA B2,Zapotitlán,46666,827
+LNIEA 4,Culhuacán,46464,828
+LINÉA 3,Atlalilco,46426,829
+LINENA 1,Ermita,46322,830
+LÍNEA 11,Tepito,46271,831
+L7,Cerro De La Estrella,46157,832
+LINEA  6,Santa Marta,46109,833
+LÍNEA 11,Garibaldi/lagunilla,45785,834
+LINENA 1,La Raza,45754,835
+LINÉA 3,General Anaya,45740,836
+L-B,Garibaldi/lagunilla,45699,837
+LINENA 1,Plaza Aragón,45292,838
+L-7,Tacubaya,45281,839
+LÍNEA 11,Sevilla,45194,840
+LÍNEA 11,Los Reyes,45131,841
+LINEA B2,Refinería,45043,842
+LINÉA 3,Chilpancingo,44953,843
+LNIEA 4,Nezahualcóyotl,44851,844
+LNIEA 4,Nativitas,44734,845
+LINEA B2,Candelaria,44520,846
+LINEA  6,Gómez Farías,44240,847
+LINEA B2,La Villa/basílica,44216,848
+L7,San Antonio Abad,44038,849
+LINENA 1,Pino Suárez,43977,850
+LINENA 1,Colegio Militar,43811,851
+LNIEA 4,Guelatao,43778,852
+LÍNEA 11,Zaragoza,43752,853
+LINEA B2,Chabacano,43510,854
+LÍNEA 11,Autobuses Del Norte,43497,855
+LINEA B2,Sevilla,43497,856
+L-5,Valle Gómez,43462,857
+L7,Juárez,43415,858
+LÍNEA 11,Centro Médico,43165,859
+LINEA  6,Nativitas,43057,860
+LINEA  6,Canal De San Juan,43004,861
+LINEA B2,San Cosme,42817,862
+LIENA 5,Chapultepec,42778,863
+LINEA  6,Jamaica,42723,864
+L-7,Tacuba,42720,865
+LIENA 5,Múzquiz,42668,866
+LINEA B2,Gómez Farías,42604,867
+LNIEA 4,Martín Carrera,42445,868
+LINÉA 3,Salto Del Agua,42347,869
+LINEA B2,Tezonco,42260,870
+LÍNEA 11,Ciudad Azteca,42230,871
+LIENA 5,Pino Suárez,42162,872
+LINEA B2,Patriotismo,42147,873
+LINEA  6,Hidalgo,42145,874
+LINÉA 3,Cuauhtémoc,42054,875
+LNIEA 4,Etiopía/plaza De La Transparencia,42042,876
+LINÉA 3,Moctezuma,41886,877
+LINÉA 3,Guerrero,41786,878
+LINÉA 3,Insurgentes,41736,879
+LINEA  6,Romero Rubio,41690,880
+LINEA  6,Garibaldi/lagunilla,41518,881
+LIENA 5,Revolución,41431,882
+L-6,Vallejo,41389,883
+LINENA 1,Mixiuhca,41294,884
+LINEA  6,Chabacano,41222,885
+LINEA  6,Deportivo Oceanía,41154,886
+LÍNEA 11,Bellas Artes,41094,887
+LINEA  6,Allende,41067,888
+LINENA 1,Viveros/derechos Humanos,40952,889
+LIENA 5,Lindavista,40922,890
+LINÉA 3,San Juan De Letrán,40883,891
+LINEA  6,Iztapalapa,40802,892
+LNIEA 4,Gómez Farías,40548,893
+LIENA 5,Puebla,40236,894
+LNIEA 4,Bellas Artes,40207,895
+L-B,Morelos,39936,896
+LÍNEA 11,Eugenia,39931,897
+LINENA 1,Olímpica,39628,898
+LINENA 1,Mixcoac,39600,899
+LNIEA 4,Tepito,39452,900
+LNIEA 4,Portales,39447,901
+LINEA  6,La Raza,39391,902
+LINEA B2,Mexicaltzingo,39317,903
+LINÉA 3,Acatitla,39293,904
+LIENA 5,Ecatepec,39272,905
+LIENA 5,Gómez Farías,39141,906
+LINÉA 3,Periférico Oriente,39136,907
+LINENA 1,Atlalilco,39043,908
+LIENA 5,San Antonio Abad,39036,909
+LINEA B2,San Antonio,38991,910
+LINÉA 3,Ferrería/arena Ciudad De México,38853,911
+L-8,Santa Anita,38846,912
+LINEA  6,Auditorio,38838,913
+LINEA  6,Ferrería/arena Ciudad De México,38760,914
+L-B,Ricardo Flores Magón,38567,915
+L7,Río De Los Remedios,38520,916
+LINEA B2,Polanco,38414,917
+LIENA 5,Salto Del Agua,38413,918
+LIENA 5,Potrero,38374,919
+LÍNEA 11,Insurgentes Sur,38103,920
+LIENA 5,Autobuses Del Norte,38024,921
+L-8,Iztapalapa,37965,922
+LINEA B2,Merced,37963,923
+L-B,Guerrero,37955,924
+LINEA B2,Niños Héroes,37852,925
+LÍNEA 11,Ecatepec,37743,926
+LINEA  6,Portales,37706,927
+LINEA  6,San Juan De Letrán,37702,928
+LINEA  6,Candelaria,37688,929
+L7,Canal De San Juan,37629,930
+LINEA  6,Tepalcates,37552,931
+LINEA  6,Salto Del Agua,37549,932
+L7,Santa Marta,37337,933
+LÍNEA 11,Peñón Viejo,37145,934
+LÍNEA 11,Santa Marta,37050,935
+L-4,Fray Servando,37010,936
+LINENA 1,Panteones,36955,937
+LINEA B2,Coyuya,36769,938
+LNIEA 4,Polanco,36705,939
+L-9,Chabacano,36689,940
+L-6,Instituto Del Petróleo,36435,941
+L7,Ciudad Deportiva,36346,942
+L7,Aculco,36312,943
+LINENA 1,Guelatao,36243,944
+LINENA 1,Barranca Del Muerto,35952,945
+LINEA  6,Los Reyes,35875,946
+L-5,Instituto Del Petróleo,35849,947
+L7,Mixiuhca,35806,948
+LINEA  6,Villa De Aragón,35740,949
+LNIEA 4,La Raza,35664,950
+LÍNEA 11,Hospital General,35644,951
+LINEA B2,Juárez,35592,952
+L-5,Consulado,35548,953
+LINÉA 3,Hidalgo,35440,954
+LINEA B2,Los Reyes,35292,955
+LINÉA 3,Pino Suárez,35243,956
+L-8,Chabacano,35216,957
+LINENA 1,Politécnico,35029,958
+LINENA 1,Velódromo,34997,959
+LINÉA 3,Tlatelolco,34987,960
+LINEA B2,Mixcoac,34924,961
+LINENA 1,Ecatepec,34839,962
+LÍNEA 11,Acatitla,34770,963
+LNIEA 4,Insurgentes Sur,34673,964
+LINEA  6,Ecatepec,34615,965
+LINENA 1,Viaducto,34610,966
+L7,Colegio Militar,34518,967
+LÍNEA 11,Revolución,34463,968
+LINÉA 3,Doctores,34322,969
+LINÉA 3,Constituyentes,34241,970
+LÍNEA 11,Tlatelolco,34139,971
+L7,Apatlaco,34019,972
+L7,Potrero,34001,973
+LIENA 5,Garibaldi/lagunilla,33938,974
+LINEA B2,Hidalgo,33910,975
+LINÉA 3,Garibaldi/lagunilla,33908,976
+LIENA 5,Universidad,33851,977
+LINEA B2,El Rosario,33633,978
+LINEA  6,Plaza Aragón,33629,979
+LIENA 5,Eje Central,33579,980
+LINÉA 3,Autobuses Del Norte,33574,981
+LINENA 1,Constituyentes,33572,982
+LINENA 1,Iztacalco,33428,983
+LINEA  6,Acatitla,33397,984
+L7,Bellas Artes,33282,985
+LNIEA 4,Los Reyes,33279,986
+LÍNEA 11,Parque De Los Venados,33258,987
+LIENA 5,Etiopía/plaza De La Transparencia,33227,988
+LINENA 1,Guerrero,33040,989
+LINÉA 3,Miguel Ángel De Quevedo,32907,990
+LIENA 5,San Antonio,32893,991
+L7,Cuitláhuac,32539,992
+LINENA 1,Nopalera,32453,993
+LIENA 5,Olivos,32335,994
+L7,Periférico Oriente,32316,995
+LINEA B2,Tacuba,32307,996
+LINENA 1,Centro Médico,32181,997
+LINÉA 3,Aquiles Serdán,32063,998
+LINENA 1,Boulevard Puerto Aéreo,32058,999
+LINEA  6,San Lázaro,31863,1000
+LINENA 1,Candelaria,31735,1001
+LIENA 5,Jamaica,31634,1002
+LINÉA 3,Apatlaco,31617,1003
+LINÉA 3,Patriotismo,31590,1004
+LINEA  6,Tezonco,31536,1005
+LÍNEA 11,San Antonio,31493,1006
+LINEA B2,Misterios,31398,1007
+LINEA B2,Mixiuhca,31313,1008
+LIENA 5,Chabacano,31243,1009
+LÍNEA 11,Culhuacán,30991,1010
+L7,Culhuacán,30875,1011
+LINEA B2,Martín Carrera,30826,1012
+L7,Panteones,30720,1013
+LÍNEA 11,Juárez,30660,1014
+LÍNEA 11,Tezozómoc,30655,1015
+LINENA 1,Auditorio,30565,1016
+LÍNEA 11,Impulsora,30534,1017
+LNIEA 4,Mexicaltzingo,30462,1018
+LIENA 5,Candelaria,30407,1019
+LINEA B2,Agrícola Oriental,30254,1020
+LÍNEA 11,Salto Del Agua,30245,1021
+LINÉA 3,Coyoacán,30123,1022
+LINEA B2,Obrera,30109,1023
+LINÉA 3,Auditorio,29919,1024
+LINÉA 3,Mexicaltzingo,29904,1025
+LNIEA 4,Consulado,29835,1026
+LÍNEA 11,Agrícola Oriental,29773,1027
+LÍNEA 11,Ferrería/arena Ciudad De México,29670,1028
+L7,Guerrero,29618,1029
+LINEA  6,Normal,29589,1030
+LINENA 1,Portales,29490,1031
+LNIEA 4,Patriotismo,29402,1032
+LINEA  6,Cuauhtémoc,29397,1033
+LNIEA 4,Cuitláhuac,29287,1034
+LINEA B2,Popotla,29268,1035
+LÍNEA 1,Gómez Farias,29194,1036
+L-4,Santa Anita,29182,1037
+LINÉA 3,Santa Marta,29114,1038
+LINÉA 3,Romero Rubio,29021,1039
+LINENA 1,Tepito,28981,1040
+LIENA 5,Lázaro Cárdenas,28968,1041
+LNIEA 4,Centro Médico,28922,1042
+LÍNEA 11,Nativitas,28888,1043
+LINEA B2,Nativitas,28856,1044
+LINENA 1,Romero Rubio,28831,1045
+LINÉA 3,Ermita,28823,1046
+LINEA  6,Tlatelolco,28794,1047
+LINEA  6,Ciudad Deportiva,28786,1048
+LINEA  6,Chapultepec,28625,1049
+LINEA B2,Bosque De Aragón,28603,1050
+LNIEA 4,Lagunilla,28528,1051
+L7,Sevilla,28467,1052
+LNIEA 4,Tlatelolco,28464,1053
+LINENA 1,Moctezuma,28449,1054
+LINEA  6,Iztacalco,28420,1055
+LINEA B2,Apatlaco,28406,1056
+LINÉA 3,Agrícola Oriental,28311,1057
+L7,Morelos,28289,1058
+L7,Iztacalco,28265,1059
+LINÉA 3,Nativitas,28224,1060
+L-7,San Pedro De Los Pinos,28168,1061
+L7,Ermita,28131,1062
+LINÉA 3,Gómez Farías,28079,1063
+L7,La Paz,28070,1064
+LIENA 5,San Pedro De Los Pinos,27923,1065
+LIENA 5,San Joaquín,27887,1066
+LINENA 1,Cuauhtémoc,27879,1067
+LINÉA 3,Guelatao,27741,1068
+LINÉA 3,Coyuya,27672,1069
+LNIEA 4,El Rosario,27653,1070
+LINEA  6,Periférico Oriente,27571,1071
+LINÉA 3,Nopalera,27536,1072
+LINEA B2,Revolución,27416,1073
+LÍNEA 11,Villa De Cortés,27348,1074
+LNIEA 4,Norte 45,27331,1075
+LNIEA 4,Viveros/derechos Humanos,27302,1076
+LNIEA 4,Hangares,27295,1077
+LINENA 1,Villa De Aragón,27198,1078
+LINEA  6,Calle 11,27182,1079
+LINEA B2,Politécnico,27128,1080
+LINÉA 3,Escuadrón 201,27081,1081
+LINEA B2,Centro Médico,27077,1082
+LINENA 1,Vallejo,27048,1083
+L-5,Hangares,26987,1084
+LIENA 5,Auditorio,26987,1085
+LINEA B2,Morelos,26921,1086
+LINEA B2,Oceanía,26896,1087
+LINENA 1,Potrero,26857,1088
+LNIEA 4,Deportivo 18 De Marzo,26808,1089
+LINÉA 3,Terminal Aérea,26773,1090
+LNIEA 4,Mixcoac,26766,1091
+LINEA  6,Zapata,26684,1092
+L7,Nezahualcóyotl,26626,1093
+LINEA B2,Jamaica,26622,1094
+L7,Allende,26573,1095
+LINÉA 3,Villa De Aragón,26555,1096
+LINEA B2,Allende,26532,1097
+LÍNEA 11,Zapata,26419,1098
+L-6,Tezozómoc,26284,1099
+LIENA 5,Hospital General,26241,1100
+LNIEA 4,Escuadrón 201,26180,1101
+LINEA B2,La Paz,26157,1102
+L7,Zapata,26155,1103
+LINENA 1,Escuadrón 201,26128,1104
+LINÉA 3,Múzquiz,26124,1105
+LÍNEA 11,Auditorio,25974,1106
+LÍNEA 11,Patriotismo,25841,1107
+LNIEA 4,Eugenia,25804,1108
+LINÉA 3,Lomas Estrella,25803,1109
+LÍNEA 11,Popotla,25722,1110
+L-6,Norte 45,25716,1111
+LNIEA 4,Deportivo Oceanía,25475,1112
+LINÉA 3,Insurgentes Sur,25469,1113
+LIENA 5,Mexicaltzingo,25315,1114
+LINEA B2,Vallejo,25253,1115
+LÍNEA 11,Portales,25140,1116
+LÍNEA 11,Constituyentes,25125,1117
+LÍNEA 11,Río De Los Remedios,25082,1118
+LINEA B2,Copilco,25005,1119
+LINÉA 3,Impulsora,24970,1120
+LINEA  6,San Pedro De Los Pinos,24938,1121
+LINÉA 3,Sevilla,24921,1122
+L7,Viveros/derechos Humanos,24855,1123
+LINEA  6,Refinería,24725,1124
+LNIEA 4,Tezonco,24577,1125
+LINENA 1,Chabacano,24577,1126
+LINEA  6,Niños Héroes,24574,1127
+L7,Santa Anita,24570,1128
+LINEA  6,Uam-i,24545,1129
+L-8,La Viga,24512,1130
+L7,Garibaldi/lagunilla,24384,1131
+L7,Hospital General,24325,1132
+LINÉA 3,Chabacano,24316,1133
+LINEA B2,San Juan De Letrán,24251,1134
+LIENA 5,Villa De Cortés,24217,1135
+LINENA 1,Cuitláhuac,24150,1136
+LÍNEA 11,Lindavista,23978,1137
+LNIEA 4,Mixiuhca,23923,1138
+LINEA  6,Camarones,23835,1139
+LINEA B2,Pino Suárez,23717,1140
+LÍNEA 11,Canal De San Juan,23702,1141
+LINEA  6,Balderas,23667,1142
+L7,Cuauhtémoc,23570,1143
+LNIEA 4,Instituto Del Petróleo,23413,1144
+LINÉA 3,Panteones,23344,1145
+LNIEA 4,Niños Héroes,23271,1146
+LÍNEA 11,Oceanía,23248,1147
+LÍNEA 11,Juanacatlán,23166,1148
+LINEA  6,San Joaquín,23137,1149
+LNIEA 4,Guerrero,23121,1150
+LIENA 5,Santa Marta,23041,1151
+LÍNEA 11,Boulevard Puerto Aéreo,23033,1152
+LINENA 1,Misterios,22960,1153
+LINEA  6,Guelatao,22938,1154
+LINEA B2,Bellas Artes,22895,1155
+LNIEA 4,Oceanía,22890,1156
+LINENA 1,El Rosario,22854,1157
+LINEA B2,Miguel Ángel De Quevedo,22763,1158
+LIENA 5,Consulado,22715,1159
+LINÉA 3,Tepito,22643,1160
+LINEA  6,Norte 45,22631,1161
+LINÉA 3,Candelaria,22509,1162
+LINENA 1,San Joaquín,22449,1163
+LINÉA 3,Iztacalco,22351,1164
+LINENA 1,Isabel La Católica,22275,1165
+LINÉA 3,Santa Anita,22234,1166
+LINENA 1,Nativitas,22222,1167
+LINÉA 3,Canal Del Norte,22082,1168
+LINENA 1,Apatlaco,22032,1169
+LNIEA 4,Refinería,22026,1170
+LIENA 5,Uam-i,21998,1171
+LINÉA 3,Mixiuhca,21993,1172
+L7,Coyuya,21976,1173
+LIENA 5,Popotla,21932,1174
+L7,Ecatepec,21923,1175
+LINEA  6,San Antonio,21830,1176
+LINENA 1,Obrera,21758,1177
+LINENA 1,Periférico Oriente,21692,1178
+LINEA B2,Insurgentes,21689,1179
+LINENA 1,Coyuya,21615,1180
+L7,Guelatao,21581,1181
+LÍNEA 11,Tezonco,21474,1182
+LINEA  6,Atlalilco,21473,1183
+LINÉA 3,Peñón Viejo,21410,1184
+LINÉA 3,Ricardo Flores Magón,21301,1185
+LÍNEA 11,Cuitláhuac,21258,1186
+LINENA 1,Balderas,21223,1187
+LINÉA 3,Revolución,21125,1188
+LINÉA 3,Olímpica,21111,1189
+LINEA  6,Aculco,20982,1190
+LÍNEA 11,División Del Norte,20980,1191
+LINEA  6,Panteones,20959,1192
+LIENA 5,Bellas Artes,20860,1193
+LÍNEA 11,Bondojito,20797,1194
+LINEA B2,Guerrero,20781,1195
+LINEA B2,Peñón Viejo,20775,1196
+LINEA  6,Autobuses Del Norte,20747,1197
+LÍNEA 11,Guelatao,20711,1198
+LINÉA 3,Fray Servando,20688,1199
+LIENA 5,Coyoacán,20670,1200
+LINEA  6,Villa De Cortés,20559,1201
+LINEA B2,Aquiles Serdán,20400,1202
+LINEA B2,Lindavista,20384,1203
+LINÉA 3,Consulado,20374,1204
+LÍNEA 11,Aquiles Serdán,20371,1205
+LIENA 5,Nopalera,20348,1206
+LIENA 5,Bosque De Aragón,20307,1207
+LINEA B2,Ferrería/arena Ciudad De México,20211,1208
+LIENA 5,Tepito,20189,1209
+LINÉA 3,Tezonco,20051,1210
+LINEA B2,Tepito,20032,1211
+LINEA  6,Centro Médico,20025,1212
+LINENA 1,Popotla,19928,1213
+LINEA B2,Autobuses Del Norte,19910,1214
+L7,Tepito,19781,1215
+LINEA  6,Mixcoac,19689,1216
+LÍNEA 11,Vallejo,19620,1217
+LIENA 5,Fray Servando,19613,1218
+LNIEA 4,Doctores,19593,1219
+LÍNEA 11,La Viga,19532,1220
+LIENA 5,Agrícola Oriental,19436,1221
+LIENA 5,Misterios,19300,1222
+LIENA 5,San Juan De Letrán,19225,1223
+LINÉA 3,Martín Carrera,19224,1224
+LINENA 1,Fray Servando,19195,1225
+LIENA 5,Instituto Del Petróleo,19169,1226
+LINEA B2,Santa Marta,19160,1227
+LINÉA 3,Politécnico,19092,1228
+LINÉA 3,Zócalo/tenochtitlan,19026,1229
+LIENA 5,Terminal Aérea,18988,1230
+LINEA  6,Revolución,18980,1231
+LIENA 5,Periférico Oriente,18937,1232
+L7,Iztapalapa,18875,1233
+LIENA 5,Centro Médico,18782,1234
+L7,Candelaria,18769,1235
+LINEA  6,Santa Anita,18718,1236
+LINÉA 3,Instituto Del Petróleo,18717,1237
+LÍNEA 11,Deportivo 18 De Marzo,18710,1238
+LIENA 5,Oceanía,18700,1239
+LIENA 5,Aquiles Serdán,18609,1240
+LNIEA 4,Iztapalapa,18574,1241
+LIENA 5,Hangares,18562,1242
+LIENA 5,San Andrés Tomatlán,18538,1243
+LNIEA 4,Colegio Militar,18307,1244
+LINEA  6,Mixiuhca,18265,1245
+L-4,Consulado,18174,1246
+LIENA 5,Moctezuma,18133,1247
+LÍNEA 11,Atlalilco,18050,1248
+L7,Portales,18022,1249
+LIENA 5,Bondojito,17994,1250
+LIENA 5,Hidalgo,17822,1251
+L7,La Villa/basílica,17671,1252
+LINENA 1,Cerro De La Estrella,17668,1253
+LIENA 5,Aragón,17624,1254
+LINEA B2,Iztapalapa,17621,1255
+LÍNEA 11,Terminal Aérea,17600,1256
+L7,Terminal Aérea,17487,1257
+LINENA 1,Garibaldi/lagunilla,17475,1258
+LINEA B2,Camarones,17471,1259
+LINEA  6,Patriotismo,17452,1260
+LINEA B2,San Pedro De Los Pinos,17449,1261
+LNIEA 4,La Villa/basílica,17430,1262
+LNIEA 4,Río De Los Remedios,17298,1263
+LINÉA 3,Morelos,17087,1264
+LINÉA 3,San Cosme,17084,1265
+LINEA B2,Eje Central,17079,1266
+LIENA 5,Balbuena,17069,1267
+LIENA 5,Iztapalapa,17013,1268
+LÍNEA 11,Hospital 20 De Noviembre,16921,1269
+LINEA B2,Isabel La Católica,16914,1270
+LNIEA 4,Olímpica,16775,1271
+LINEA  6,Oceanía,16771,1272
+LIENA 5,Uam-azcapotzalco,16770,1273
+LINEA B2,Villa De Aragón,16527,1274
+LINEA  6,Morelos,16525,1275
+LIENA 5,Juanacatlán,16502,1276
+LINEA B2,Balbuena,16456,1277
+LINEA B2,Olivos,16403,1278
+LINÉA 3,Ciudad Deportiva,16401,1279
+LINENA 1,Peñón Viejo,16313,1280
+LÍNEA 11,Tepalcates,16277,1281
+LIENA 5,Zapotitlán,16147,1282
+LINEA  6,Ricardo Flores Magón,16132,1283
+LIENA 5,Sevilla,16092,1284
+LINEA  6,Coyoacán,16045,1285
+LINÉA 3,Norte 45,15999,1286
+LINEA  6,Bondojito,15954,1287
+L-9,Velódromo,15891,1288
+LNIEA 4,Juanacatlán,15875,1289
+LINEA B2,Canal De San Juan,15870,1290
+L7,La Viga,15863,1291
+LIENA 5,Canal Del Norte,15846,1292
+LNIEA 4,Iztacalco,15838,1293
+LIENA 5,Canal De San Juan,15833,1294
+LIENA 5,San Cosme,15802,1295
+LÍNEA 11,Aculco,15686,1296
+LINÉA 3,Eduardo Molina,15626,1297
+LIENA 5,Villa De Aragón,15572,1298
+LINENA 1,Sevilla,15467,1299
+LÍNEA 11,Norte 45,15466,1300
+L-1,Gómez Farias,15413,1301
+LINÉA 3,Lázaro Cárdenas,15398,1302
+L7,Eugenia,15371,1303
+LNIEA 4,San Antonio,15368,1304
+LÍNEA 11,Ermita,15279,1305
+LINÉA 3,Zapotitlán,15086,1306
+L7,Acatitla,14957,1307
+LINEA  6,División Del Norte,14852,1308
+LINEA B2,Uam-i,14848,1309
+LINEA  6,Potrero,14832,1310
+LIENA 5,Doctores,14824,1311
+LNIEA 4,Panteones,14817,1312
+LINEA B2,Aragón,14817,1313
+LÍNEA 11,Jamaica,14801,1314
+LÍNEA 11,Balbuena,14748,1315
+LINEA  6,Fray Servando,14596,1316
+LINENA 1,Insurgentes Sur,14549,1317
+LIENA 5,Boulevard Puerto Aéreo,14465,1318
+LINEA  6,Zapotitlán,14442,1319
+L7,Instituto Del Petróleo,14388,1320
+LINEA B2,Romero Rubio,14305,1321
+LIENA 5,Ciudad Deportiva,14282,1322
+LIENA 5,Aculco,14176,1323
+L7,Zapotitlán,14165,1324
+LINÉA 3,Viaducto,14138,1325
+LINEA B2,Escuadrón 201,14024,1326
+LÍNEA 11,Uam-i,14018,1327
+LINEA  6,Hangares,13974,1328
+LÍNEA 11,Niños Héroes,13927,1329
+LINÉA 3,Velódromo,13913,1330
+LINENA 1,Culhuacán,13864,1331
+LINEA  6,Doctores,13837,1332
+LINEA  6,Obrera,13597,1333
+LINEA B2,Fray Servando,13572,1334
+LINEA B2,Portales,13524,1335
+L7,Tlatelolco,13477,1336
+L7,San Andrés Tomatlán,13400,1337
+LNIEA 4,Canal De San Juan,13399,1338
+LNIEA 4,Lindavista,13253,1339
+LINENA 1,Villa De Cortés,13214,1340
+LINEA B2,Doctores,13152,1341
+LINENA 1,Los Reyes,13149,1342
+LIENA 5,Ricardo Flores Magón,13146,1343
+L7,Jamaica,13042,1344
+LNIEA 4,Plaza Aragón,12939,1345
+L7,Peñón Viejo,12862,1346
+LINEA  6,Guerrero,12726,1347
+LNIEA 4,Aquiles Serdán,12681,1348
+LÍNEA 11,Uam-azcapotzalco,12667,1349
+LÍNEA 11,Guerrero,12664,1350
+LINEA B2,Santa Anita,12646,1351
+LÍNEA 11,Nezahualcóyotl,12642,1352
+L7,Lázaro Cárdenas,12615,1353
+LINEA  6,Constituyentes,12582,1354
+LNIEA 4,Cuauhtémoc,12546,1355
+L7,Etiopía/plaza De La Transparencia,12517,1356
+LÍNEA 11,Hangares,12497,1357
+LNIEA 4,Lázaro Cárdenas,12477,1358
+LINEA  6,Lázaro Cárdenas,12444,1359
+LÍNEA 11,Mixiuhca,12440,1360
+LINEA  6,Hospital 20 De Noviembre,12426,1361
+LINÉA 3,Centro Médico,12412,1362
+LIENA 5,Los Reyes,12395,1363
+LINENA 1,Acatitla,12390,1364
+LIENA 5,Morelos,12366,1365
+LÍNEA 11,San Joaquín,12203,1366
+LNIEA 4,Misterios,12197,1367
+L-6,Deportivo 18 De Marzo,12171,1368
+LIENA 5,Obrera,12125,1369
+LINENA 1,Lomas Estrella,12100,1370
+LINEA  6,Parque De Los Venados,12072,1371
+LINÉA 3,Etiopía/plaza De La Transparencia,12055,1372
+LÍNEA 11,Bosque De Aragón,11956,1373
+LÍNEA 11,Doctores,11944,1374
+LNIEA 4,Cerro De La Estrella,11935,1375
+LINEA B2,Lázaro Cárdenas,11886,1376
+LINENA 1,General Anaya,11851,1377
+LINÉA 3,Aragón,11842,1378
+LINEA B2,Instituto Del Petróleo,11837,1379
+LINENA 1,Morelos,11818,1380
+LIENA 5,Apatlaco,11760,1381
+LINENA 1,Calle 11,11743,1382
+LINEA  6,Instituto Del Petróleo,11733,1383
+LNIEA 4,Popotla,11703,1384
+L7,Balbuena,11696,1385
+LÍNEA 11,San Andrés Tomatlán,11688,1386
+LINENA 1,Deportivo Oceanía,11674,1387
+LINEA B2,San Andrés Tomatlán,11666,1388
+LIENA 5,Tepalcates,11653,1389
+LINEA B2,Cerro De La Estrella,11609,1390
+LINEA  6,Eugenia,11599,1391
+LINENA 1,Polanco,11402,1392
+LNIEA 4,Morelos,11386,1393
+LNIEA 4,Viaducto,11361,1394
+LINENA 1,Ciudad Deportiva,11300,1395
+LINEA B2,Bondojito,11239,1396
+LNIEA 4,Agrícola Oriental,11219,1397
+L7,Parque De Los Venados,11208,1398
+LINENA 1,Iztapalapa,11188,1399
+LÍNEA 11,Zapotitlán,11178,1400
+L7,Obrera,11164,1401
+LINEA B2,Olímpica,11094,1402
+LINEA  6,Valle Gómez,11080,1403
+LINÉA 3,Xola,11053,1404
+LINENA 1,Valle Gómez,11047,1405
+LINENA 1,Mexicaltzingo,11047,1406
+LINÉA 3,Refinería,11022,1407
+LINEA  6,Hospital General,10896,1408
+LINEA B2,Tezozómoc,10833,1409
+L7,Romero Rubio,10787,1410
+LÍNEA 11,Consulado,10766,1411
+LINEA  6,San Antonio Abad,10728,1412
+LIENA 5,Guerrero,10588,1413
+LINEA B2,Moctezuma,10566,1414
+LINENA 1,Refinería,10548,1415
+LINEA  6,Cerro De La Estrella,10532,1416
+LIENA 5,Viaducto,10492,1417
+LNIEA 4,Romero Rubio,10491,1418
+LINÉA 3,Tezozómoc,10375,1419
+L7,Ricardo Flores Magón,10364,1420
+LÍNEA 11,Politécnico,10331,1421
+LINÉA 3,Bosque De Aragón,10298,1422
+L7,Atlalilco,10248,1423
+LIENA 5,Iztacalco,10184,1424
+LÍNEA 11,Fray Servando,10170,1425
+LINEA  6,Colegio Militar,10140,1426
+LINEA B2,Colegio Militar,9968,1427
+LINÉA 3,Valle Gómez,9743,1428
+LIENA 5,Olímpica,9738,1429
+LINEA B2,Parque De Los Venados,9726,1430
+L7,Agrícola Oriental,9714,1431
+LINÉA 3,Oceanía,9667,1432
+LNIEA 4,Villa De Cortés,9635,1433
+LINENA 1,Aculco,9583,1434
+LINÉA 3,Zapata,9566,1435
+LIENA 5,Lagunilla,9563,1436
+L7,Tlaltenco,9535,1437
+LINEA B2,Villa De Cortés,9444,1438
+LINENA 1,Parque De Los Venados,9444,1439
+LIENA 5,Valle Gómez,9431,1440
+LNIEA 4,Uam-azcapotzalco,9419,1441
+LINÉA 3,Talismán,9412,1442
+LIENA 5,Santa Anita,9356,1443
+LIENA 5,Tezozómoc,9344,1444
+LÍNEA 11,Eje Central,9217,1445
+LÍNEA 11,Mexicaltzingo,9165,1446
+LÍNEA 11,Aragón,9153,1447
+LÍNEA 11,Misterios,9115,1448
+LINÉA 3,Hospital 20 De Noviembre,9107,1449
+LINEA  6,Talismán,9072,1450
+LNIEA 4,Bosque De Aragón,9036,1451
+LNIEA 4,Tezozómoc,9032,1452
+LÍNEA 11,Olivos,8991,1453
+LNIEA 4,Tepalcates,8952,1454
+LINÉA 3,Misterios,8877,1455
+LÍNEA 11,San Pedro De Los Pinos,8862,1456
+L7,Fray Servando,8819,1457
+LINÉA 3,Lindavista,8749,1458
+LINENA 1,Lázaro Cárdenas,8603,1459
+LINENA 1,Aragón,8549,1460
+LNIEA 4,Camarones,8249,1461
+LNIEA 4,Juárez,8246,1462
+LINEA  6,Vallejo,8079,1463
+LINEA  6,Bosque De Aragón,8003,1464
+L7,Olivos,7922,1465
+LINEA  6,Lomas Estrella,7873,1466
+LINENA 1,Aquiles Serdán,7838,1467
+LNIEA 4,Bondojito,7832,1468
+LINEA  6,Popotla,7816,1469
+L7,Tepalcates,7779,1470
+L7,Talismán,7735,1471
+LINENA 1,Uam-azcapotzalco,7671,1472
+LNIEA 4,Eduardo Molina,7668,1473
+LÍNEA 11,Valle Gómez,7622,1474
+LÍNEA 11,Morelos,7593,1475
+LNIEA 4,San Andrés Tomatlán,7555,1476
+LÍNEA 11,Obrera,7457,1477
+LIENA 5,Eduardo Molina,7435,1478
+L7,Uam-azcapotzalco,7328,1479
+LINEA  6,Balbuena,7248,1480
+LINEA B2,Ricardo Flores Magón,7186,1481
+L7,Tezozómoc,7114,1482
+LNIEA 4,Apatlaco,7111,1483
+LINEA  6,Aquiles Serdán,7034,1484
+L7,Bondojito,6979,1485
+L7,Consulado,6966,1486
+LINEA B2,Canal Del Norte,6940,1487
+LIENA 5,Culhuacán,6932,1488
+LIENA 5,Panteones,6853,1489
+LINENA 1,Tepalcates,6823,1490
+LINEA  6,Lindavista,6755,1491
+LINEA  6,La Viga,6736,1492
+L7,Canal Del Norte,6653,1493
+LINÉA 3,Aculco,6651,1494
+L7,Norte 45,6611,1495
+LNIEA 4,Zapotitlán,6585,1496
+LNIEA 4,Candelaria,6564,1497
+LINEA B2,Constituyentes,6413,1498
+LINÉA 3,San Andrés Tomatlán,6398,1499
+LIENA 5,Refinería,6337,1500
+LINÉA 3,Parque De Los Venados,6331,1501
+LINEA B2,La Viga,6318,1502
+LINENA 1,Eduardo Molina,6299,1503
+LINENA 1,Tezozómoc,6223,1504
+LINENA 1,Balbuena,6216,1505
+LINEA B2,Consulado,6209,1506
+LIENA 5,Niños Héroes,6197,1507
+LNIEA 4,Vallejo,6180,1508
+LÍNEA 11,Candelaria,6136,1509
+LNIEA 4,Eje Central,5860,1510
+LINÉA 3,Hangares,5849,1511
+LINÉA 3,Camarones,5734,1512
+LNIEA 4,Canal Del Norte,5719,1513
+LINEA B2,Hospital 20 De Noviembre,5714,1514
+LINEA  6,Juanacatlán,5701,1515
+LÍNEA 11,Calle 11,5670,1516
+LNIEA 4,Talismán,5657,1517
+LINENA 1,Canal Del Norte,5607,1518
+LNIEA 4,Hidalgo,5603,1519
+LIENA 5,Mixiuhca,5480,1520
+LIENA 5,La Villa/basílica,5378,1521
+L7,Valle Gómez,5346,1522
+LINENA 1,Santa Anita,5319,1523
+LINEA  6,Agrícola Oriental,5288,1524
+LIENA 5,Lomas Estrella,5139,1525
+LINENA 1,Consulado,4874,1526
+LINÉA 3,Popotla,4811,1527
+LINENA 1,Ricardo Flores Magón,4753,1528
+LINEA B2,Valle Gómez,4730,1529
+L7,Juanacatlán,4691,1530
+LÍNEA 11,Tlaltenco,4662,1531
+LNIEA 4,Valle Gómez,4550,1532
+LIENA 5,Vallejo,4546,1533
+LINENA 1,Hangares,4339,1534
+LÍNEA 11,Ciudad Deportiva,4314,1535
+LINENA 1,Eje Central,4276,1536
+LINENA 1,San Cosme,4269,1537
+LIENA 5,La Viga,4252,1538
+LIENA 5,Talismán,4217,1539
+LINEA B2,Norte 45,4214,1540
+LINEA B2,Uam-azcapotzalco,4142,1541
+LINÉA 3,Juanacatlán,4119,1542
+LÍNEA 11,Instituto Del Petróleo,4011,1543
+LNIEA 4,San Pedro De Los Pinos,3652,1544
+LINENA 1,Talismán,3616,1545
+LÍNEA 11,Santa Anita,3570,1546
+LNIEA 4,Aragón,3558,1547
+LIENA 5,Peñón Viejo,3219,1548
+L7,Hangares,3105,1549
+LÍNEA 11,Eduardo Molina,2992,1550
+LINEA B2,Aculco,2947,1551
+LINÉA 3,Tlaltenco,2619,1552
+LINENA 1,Instituto Del Petróleo,2477,1553
+LNIEA 4,Santa Anita,2067,1554
+LINEA B2,Velódromo,1892,1555
+L7,Patriotismo,36,1556
