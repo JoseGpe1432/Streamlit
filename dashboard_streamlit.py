@@ -217,6 +217,38 @@ st.markdown("""
 
 
 # ─────────────────────────────────────────────
+# NORMALIZACIÓN DE LÍNEAS
+# ─────────────────────────────────────────────
+import re, unicodedata as _ud
+
+def normalizar_linea(valor):
+    """Convierte cualquier variante de nombre de línea al formato canónico.
+    Ejemplos: L1, L-1, LINEA 1, LIENA 5, LNIEA 4, LÍNEA 11 → Línea 1 ... Línea 12, Línea A, Línea B
+    """
+    if not isinstance(valor, str) or valor.strip() == "":
+        return valor
+    v = _ud.normalize("NFKD", valor.strip().upper())
+    v = "".join(c for c in v if not _ud.combining(c))
+    # número o letra al final
+    m = re.search(r"(\d{1,2}|[AB])\s*$", v)
+    if m:
+        id_ = m.group(1)
+        return f"Línea {id_}" if id_ in ("A","B") else f"Línea {int(id_)}"
+    # formato corto L1 / LA / L-2
+    m2 = re.match(r"^L-?(\d{1,2}|[AB])$", v)
+    if m2:
+        id_ = m2.group(1)
+        return f"Línea {id_}" if id_ in ("A","B") else f"Línea {int(id_)}"
+    return valor
+
+def normalizar_col_linea(df):
+    """Aplica normalizar_linea a la columna 'linea' si existe."""
+    if "linea" in df.columns:
+        df = df.copy()
+        df["linea"] = df["linea"].apply(normalizar_linea)
+    return df
+
+# ─────────────────────────────────────────────
 # DATOS SIMULADOS (se reemplazan por CSVs reales)
 # ─────────────────────────────────────────────
 @st.cache_data
@@ -383,6 +415,10 @@ def load_data():
 
 data, modo_real = load_data()
 
+# Normalizar columna linea en todos los dataframes cargados
+for _k in list(data.keys()):
+    data[_k] = normalizar_col_linea(data[_k])
+
 # ─────────────────────────────────────────────
 # VARIABLES BASE
 # ─────────────────────────────────────────────
@@ -502,7 +538,9 @@ st.markdown('<div class="section-header">📊 Indicadores principales</div>', un
 
 total_pax      = int(df_f["afluencia_total"].sum())
 prom_diario    = int(df_f["afluencia_promedio_diaria"].mean()) if "afluencia_promedio_diaria" in df_f.columns else int(total_pax // max(1, len(df_f)) // 30)
-ingreso_total  = int(df_ing[df_ing["año"] == año_sel]["ingreso_total"].sum()) if "ingreso_total" in df_ing.columns else 0
+_ing_fil = df_ing[df_ing["año"] == año_sel] if "año" in df_ing.columns else df_ing
+_col_ing = "ingreso_total" if "ingreso_total" in _ing_fil.columns else ("ingreso" if "ingreso" in _ing_fil.columns else None)
+ingreso_total = int(_ing_fil[_col_ing].sum()) if _col_ing else 0
 ing_pax        = round(df_eff["ingreso_por_pasajero"].mean(), 2) if "ingreso_por_pasajero" in df_eff.columns else 5.5
 sat_critica    = int((df_sat["indice_saturacion"] > 85).sum())
 linea_top_dem  = df_f.groupby("linea")["afluencia_total"].sum().idxmax() if len(df_f) > 0 else "N/A"
@@ -669,9 +707,24 @@ if mostrar_ingresos:
     st.markdown('<div class="section-header">💰 Relación ingresos y afluencia</div>', unsafe_allow_html=True)
     col_i1, col_i2 = st.columns(2)
     with col_i1:
-        st.caption("Ingresos mensuales por línea (año seleccionado)")
         df_ing_f = df_ing[df_ing["año"] == año_sel] if "año" in df_ing.columns else df_ing
-        ing_linea = df_ing_f.groupby("linea")["ingreso_total"].sum().sort_values(ascending=False)
+
+        # El CSV real agrupa por tipo_ingreso; si tiene linea también se usa
+        if "linea" in df_ing_f.columns:
+            agg_col = "linea"
+            st.caption("Ingresos mensuales por línea (año seleccionado)")
+        elif "tipo_ingreso" in df_ing_f.columns:
+            agg_col = "tipo_ingreso"
+            st.caption("Ingresos mensuales por tipo de ingreso (año seleccionado)")
+        else:
+            agg_col = df_ing_f.columns[0]
+            st.caption(f"Ingresos mensuales por {agg_col} (año seleccionado)")
+
+        ing_linea = (
+            df_ing_f.groupby(agg_col)["ingreso_total"]
+            .sum()
+            .sort_values(ascending=False)
+        )
         st.bar_chart(ing_linea)
     with col_i2:
         st.caption("Dispersión: afluencia total vs ingreso total (eficiencia del sistema)")
